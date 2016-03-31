@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+  <GlyphOrder src="Heebo-Thin.GlyphOrder.ttx"/>
+  <head src="Heebo-Thin._h_e_a_d.ttx"/>
+  <hhea src="Heebo-Thin._h_h_e_a.ttx"/>
+  <maxp src="Heebo-Thin._m_a_x_p.ttx"/>
+  <OS_2 src="Heebo-Thin.O_S_2f_2.ttx"/>
+  <name src="Heebo-Thin._n_a_m_e.ttx"/>
+  <cmap src="Heebo-Thin._c_m_a_p.ttx"/>
+  <post src="Heebo-Thin._p_o_s_t.ttx"/>
+  <CFF src="Heebo-Thin.C_F_F_.ttx"/>
+  <GDEF src="Heebo-Thin.G_D_E_F_.ttx"/>
+  <GPOS src="Heebo-Thin.G_P_O_S_.ttx"/>
+  <GSUB src="Heebo-Thin.G_S_U_B_.ttx"/>
+  <hmtx src="Heebo-Thin._h_m_t_x.ttx"/>
+</ttFont>

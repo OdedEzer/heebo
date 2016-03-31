@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="Heebo-Thin.GlyphOrder.ttx"/>
+  <head src="Heebo-Thin._h_e_a_d.ttx"/>
+  <hhea src="Heebo-Thin._h_h_e_a.ttx"/>
+  <maxp src="Heebo-Thin._m_a_x_p.ttx"/>
+  <OS_2 src="Heebo-Thin.O_S_2f_2.ttx"/>
+  <hmtx src="Heebo-Thin._h_m_t_x.ttx"/>
+  <cmap src="Heebo-Thin._c_m_a_p.ttx"/>
+  <fpgm src="Heebo-Thin._f_p_g_m.ttx"/>
+  <prep src="Heebo-Thin._p_r_e_p.ttx"/>
+  <cvt src="Heebo-Thin._c_v_t.ttx"/>
+  <loca src="Heebo-Thin._l_o_c_a.ttx"/>
+  <glyf src="Heebo-Thin._g_l_y_f.ttx"/>
+  <name src="Heebo-Thin._n_a_m_e.ttx"/>
+  <post src="Heebo-Thin._p_o_s_t.ttx"/>
+  <gasp src="Heebo-Thin._g_a_s_p.ttx"/>
+  <GDEF src="Heebo-Thin.G_D_E_F_.ttx"/>
+  <GPOS src="Heebo-Thin.G_P_O_S_.ttx"/>
+  <GSUB src="Heebo-Thin.G_S_U_B_.ttx"/>
+  <DSIG src="Heebo-Thin.D_S_I_G_.ttx"/>
+</ttFont>
