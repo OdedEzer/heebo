@@ -249,7 +249,6 @@
       <ClassDef glyph="uni05BF" class="3"/>
       <ClassDef glyph="uni05C1" class="3"/>
       <ClassDef glyph="uni05C2" class="3"/>
-      <ClassDef glyph="uni05C7" class="3"/>
       <ClassDef glyph="uni05D0" class="1"/>
       <ClassDef glyph="uni05D1" class="1"/>
       <ClassDef glyph="uni05D2" class="1"/>
@@ -287,6 +286,7 @@
       <ClassDef glyph="uni05F2" class="2"/>
       <ClassDef glyph="uni1E9E" class="1"/>
       <ClassDef glyph="uni1E9E.smcp" class="1"/>
+      <ClassDef glyph="uni20AA" class="1"/>
       <ClassDef glyph="uniFB1F" class="1"/>
       <ClassDef glyph="uniFB20" class="1"/>
       <ClassDef glyph="uniFB21" class="1"/>

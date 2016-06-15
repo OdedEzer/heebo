@@ -1721,7 +1721,6 @@
             <Glyph value="uni05B5"/>
             <Glyph value="uni05B6"/>
             <Glyph value="uni05B7"/>
-            <Glyph value="uni05C7"/>
             <Glyph value="uni05B8"/>
             <Glyph value="uni05BB"/>
             <Glyph value="uni05BF"/>
@@ -1731,7 +1730,7 @@
           </BaseCoverage>
           <!-- ClassCount=2 -->
           <MarkArray>
-            <!-- MarkCount=15 -->
+            <!-- MarkCount=14 -->
             <MarkRecord index="0">
               <Class value="1"/>
               <MarkAnchor Format="1">
@@ -1749,7 +1748,7 @@
             <MarkRecord index="2">
               <Class value="1"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="-534"/>
+                <XCoordinate value="-533"/>
                 <YCoordinate value="1286"/>
               </MarkAnchor>
             </MarkRecord>
@@ -1812,7 +1811,7 @@
             <MarkRecord index="11">
               <Class value="0"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="599"/>
+                <XCoordinate value="598"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
@@ -1824,13 +1823,6 @@
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
-              <Class value="0"/>
-              <MarkAnchor Format="1">
-                <XCoordinate value="598"/>
-                <YCoordinate value="0"/>
-              </MarkAnchor>
-            </MarkRecord>
-            <MarkRecord index="14">
               <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="484"/>
@@ -1870,7 +1862,6 @@
             <Glyph value="uni05B5"/>
             <Glyph value="uni05B6"/>
             <Glyph value="uni05B7"/>
-            <Glyph value="uni05C7"/>
             <Glyph value="uni05B8"/>
             <Glyph value="uni05B9"/>
             <Glyph value="uni05BA"/>
@@ -1958,7 +1949,7 @@
           </BaseCoverage>
           <!-- ClassCount=5 -->
           <MarkArray>
-            <!-- MarkCount=20 -->
+            <!-- MarkCount=19 -->
             <MarkRecord index="0">
               <Class value="2"/>
               <MarkAnchor Format="1">
@@ -1976,7 +1967,7 @@
             <MarkRecord index="2">
               <Class value="2"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="-534"/>
+                <XCoordinate value="-533"/>
                 <YCoordinate value="1286"/>
               </MarkAnchor>
             </MarkRecord>
@@ -2039,15 +2030,15 @@
             <MarkRecord index="11">
               <Class value="0"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="599"/>
+                <XCoordinate value="598"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="12">
-              <Class value="0"/>
+              <Class value="3"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="598"/>
-                <YCoordinate value="0"/>
+                <XCoordinate value="261"/>
+                <YCoordinate value="1178"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
@@ -2058,41 +2049,34 @@
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="14">
-              <Class value="3"/>
-              <MarkAnchor Format="1">
-                <XCoordinate value="261"/>
-                <YCoordinate value="1178"/>
-              </MarkAnchor>
-            </MarkRecord>
-            <MarkRecord index="15">
               <Class value="0"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="598"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="16">
+            <MarkRecord index="15">
               <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="316"/>
                 <YCoordinate value="599"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="17">
+            <MarkRecord index="16">
               <Class value="2"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="484"/>
                 <YCoordinate value="1178"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="18">
+            <MarkRecord index="17">
               <Class value="4"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="0"/>
                 <YCoordinate value="1178"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="19">
+            <MarkRecord index="18">
               <Class value="3"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="0"/>
@@ -3750,7 +3734,6 @@
             <Glyph value="uni05B5"/>
             <Glyph value="uni05B6"/>
             <Glyph value="uni05B7"/>
-            <Glyph value="uni05C7"/>
             <Glyph value="uni05B8"/>
             <Glyph value="uni05BB"/>
             <Glyph value="uni05BF"/>
@@ -3931,7 +3914,7 @@
           </BaseCoverage>
           <!-- ClassCount=2 -->
           <MarkArray>
-            <!-- MarkCount=15 -->
+            <!-- MarkCount=14 -->
             <MarkRecord index="0">
               <Class value="1"/>
               <MarkAnchor Format="1">
@@ -3949,7 +3932,7 @@
             <MarkRecord index="2">
               <Class value="1"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="-534"/>
+                <XCoordinate value="-533"/>
                 <YCoordinate value="1286"/>
               </MarkAnchor>
             </MarkRecord>
@@ -4012,7 +3995,7 @@
             <MarkRecord index="11">
               <Class value="0"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="599"/>
+                <XCoordinate value="598"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
@@ -4024,13 +4007,6 @@
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
-              <Class value="0"/>
-              <MarkAnchor Format="1">
-                <XCoordinate value="598"/>
-                <YCoordinate value="0"/>
-              </MarkAnchor>
-            </MarkRecord>
-            <MarkRecord index="14">
               <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="484"/>

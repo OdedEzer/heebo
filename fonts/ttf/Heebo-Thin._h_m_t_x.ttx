@@ -4,7 +4,6 @@
   <hmtx>
     <mtx name=".notdef" width="1351" lsb="251"/>
     <mtx name=".null" width="0" lsb="0"/>
-    <mtx name=".ttfautohint" width="811" lsb="0"/>
     <mtx name="A" width="1223" lsb="33"/>
     <mtx name="A.smcp" width="1058" lsb="28"/>
     <mtx name="AE" width="1816" lsb="50"/>
@@ -347,7 +346,6 @@
     <mtx name="uni05BF" width="0" lsb="260"/>
     <mtx name="uni05C1" width="0" lsb="1179"/>
     <mtx name="uni05C2" width="0" lsb="136"/>
-    <mtx name="uni05C7" width="0" lsb="417"/>
     <mtx name="uni05D0" width="1228" lsb="170"/>
     <mtx name="uni05D1" width="1025" lsb="70"/>
     <mtx name="uni05D2" width="728" lsb="15"/>
@@ -408,6 +406,7 @@
     <mtx name="uni2087" width="728" lsb="66"/>
     <mtx name="uni2088" width="728" lsb="80"/>
     <mtx name="uni2089" width="728" lsb="78"/>
+    <mtx name="uni20AA" width="1513" lsb="170"/>
     <mtx name="uniFB1F" width="1084" lsb="60"/>
     <mtx name="uniFB20" width="1123" lsb="70"/>
     <mtx name="uniFB21" width="1715" lsb="170"/>

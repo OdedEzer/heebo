@@ -251,6 +251,7 @@
       <psName name="uni200D"/>
       <psName name="uni200C"/>
       <psName name="Euro"/>
+      <psName name="uni20AA"/>
       <psName name="ampersand.smcp"/>
       <psName name="dollar.smcp"/>
       <psName name="Euro.smcp"/>
@@ -268,7 +269,6 @@
       <psName name="uni05B5"/>
       <psName name="uni05B6"/>
       <psName name="uni05B7"/>
-      <psName name="uni05C7"/>
       <psName name="uni05B8"/>
       <psName name="uni05B9"/>
       <psName name="uni05BA"/>
@@ -280,7 +280,6 @@
       <psName name="longst"/>
       <psName name="st"/>
       <psName name="crossbar"/>
-      <psName name=".ttfautohint"/>
     </extraNames>
   </post>
 

@@ -4,7 +4,6 @@
   <hmtx>
     <mtx name=".notdef" width="1351" lsb="251"/>
     <mtx name=".null" width="0" lsb="0"/>
-    <mtx name=".ttfautohint" width="1016" lsb="0"/>
     <mtx name="A" width="1402" lsb="-8"/>
     <mtx name="A.smcp" width="1218" lsb="-17"/>
     <mtx name="AE" width="1926" lsb="22"/>
@@ -58,8 +57,8 @@
     <mtx name="Iacute.smcp" width="554" lsb="98"/>
     <mtx name="Icircumflex" width="628" lsb="-123"/>
     <mtx name="Icircumflex.smcp" width="554" lsb="-157"/>
-    <mtx name="Idieresis" width="628" lsb="-113"/>
-    <mtx name="Idieresis.smcp" width="554" lsb="-147"/>
+    <mtx name="Idieresis" width="628" lsb="-112"/>
+    <mtx name="Idieresis.smcp" width="554" lsb="-146"/>
     <mtx name="Igrave" width="628" lsb="-53"/>
     <mtx name="Igrave.smcp" width="554" lsb="-87"/>
     <mtx name="J" width="1154" lsb="35"/>
@@ -146,8 +145,8 @@
     <mtx name="asterisk" width="963" lsb="27"/>
     <mtx name="at" width="1835" lsb="60"/>
     <mtx name="atilde" width="1083" lsb="36"/>
-    <mtx name="b" width="1153" lsb="92"/>
-    <mtx name="b.ss06" width="1182" lsb="92"/>
+    <mtx name="b" width="1153" lsb="91"/>
+    <mtx name="b.ss06" width="1182" lsb="91"/>
     <mtx name="backslash" width="878" lsb="-30"/>
     <mtx name="bar" width="526" lsb="172"/>
     <mtx name="braceleft" width="661" lsb="37"/>
@@ -160,7 +159,7 @@
     <mtx name="c.ss06" width="1110" lsb="50"/>
     <mtx name="ccedilla" width="1063" lsb="47"/>
     <mtx name="cedilla" width="579" lsb="81"/>
-    <mtx name="cent" width="1223" lsb="98"/>
+    <mtx name="cent" width="1223" lsb="99"/>
     <mtx name="circumflex" width="1042" lsb="86"/>
     <mtx name="colon" width="631" lsb="116"/>
     <mtx name="comma" width="575" lsb="47"/>
@@ -194,7 +193,7 @@
     <mtx name="exclam" width="569" lsb="94"/>
     <mtx name="exclamdown" width="632" lsb="121"/>
     <mtx name="f" width="746" lsb="5"/>
-    <mtx name="f_f" width="1493" lsb="5"/>
+    <mtx name="f_f" width="1492" lsb="5"/>
     <mtx name="f_f_i" width="2012" lsb="5"/>
     <mtx name="f_f_l" width="2012" lsb="5"/>
     <mtx name="f_l" width="1318" lsb="5"/>
@@ -227,7 +226,7 @@
     <mtx name="i" width="572" lsb="85"/>
     <mtx name="iacute" width="595" lsb="119"/>
     <mtx name="icircumflex" width="595" lsb="-137"/>
-    <mtx name="idieresis" width="595" lsb="-127"/>
+    <mtx name="idieresis" width="595" lsb="-126"/>
     <mtx name="igrave" width="595" lsb="-67"/>
     <mtx name="j" width="563" lsb="-126"/>
     <mtx name="k" width="1132" lsb="91"/>
@@ -238,7 +237,7 @@
     <mtx name="logicalnot" width="1122" lsb="125"/>
     <mtx name="longs" width="543" lsb="85"/>
     <mtx name="longst" width="1365" lsb="5"/>
-    <mtx name="m" width="1760" lsb="92"/>
+    <mtx name="m" width="1760" lsb="91"/>
     <mtx name="macron" width="1083" lsb="187"/>
     <mtx name="minus" width="1113" lsb="130"/>
     <mtx name="multiply" width="1081" lsb="48"/>
@@ -265,8 +264,8 @@
     <mtx name="ordmasculine" width="939" lsb="117"/>
     <mtx name="oslash" width="1149" lsb="47"/>
     <mtx name="otilde" width="1147" lsb="47"/>
-    <mtx name="p" width="1153" lsb="92"/>
-    <mtx name="p.ss06" width="1176" lsb="92"/>
+    <mtx name="p" width="1153" lsb="91"/>
+    <mtx name="p.ss06" width="1176" lsb="91"/>
     <mtx name="paragraph" width="1000" lsb="85"/>
     <mtx name="parenleft" width="725" lsb="119"/>
     <mtx name="parenright" width="722" lsb="40"/>
@@ -287,7 +286,7 @@
     <mtx name="quoteright" width="510" lsb="70"/>
     <mtx name="quotesinglbase" width="577" lsb="91"/>
     <mtx name="quotesingle" width="309" lsb="35"/>
-    <mtx name="r" width="789" lsb="92"/>
+    <mtx name="r" width="789" lsb="91"/>
     <mtx name="registered" width="1610" lsb="85"/>
     <mtx name="ring" width="671" lsb="118"/>
     <mtx name="s" width="1048" lsb="26"/>
@@ -347,7 +346,6 @@
     <mtx name="uni05BF" width="0" lsb="211"/>
     <mtx name="uni05C1" width="0" lsb="1357"/>
     <mtx name="uni05C2" width="0" lsb="196"/>
-    <mtx name="uni05C7" width="0" lsb="425"/>
     <mtx name="uni05D0" width="1406" lsb="85"/>
     <mtx name="uni05D1" width="1131" lsb="48"/>
     <mtx name="uni05D2" width="971" lsb="7"/>
@@ -380,7 +378,7 @@
     <mtx name="uni05E8.004" width="1073" lsb="96"/>
     <mtx name="uni05E9" width="1847" lsb="154"/>
     <mtx name="uni05EA" width="1345" lsb="10"/>
-    <mtx name="uni05F0" width="1367" lsb="62"/>
+    <mtx name="uni05F0" width="1368" lsb="62"/>
     <mtx name="uni05F1" width="1432" lsb="62"/>
     <mtx name="uni05F2" width="1496" lsb="49"/>
     <mtx name="uni05F3" width="525" lsb="22"/>
@@ -408,6 +406,7 @@
     <mtx name="uni2087" width="770" lsb="46"/>
     <mtx name="uni2088" width="770" lsb="66"/>
     <mtx name="uni2089" width="770" lsb="64"/>
+    <mtx name="uni20AA" width="2029" lsb="124"/>
     <mtx name="uniFB1F" width="1496" lsb="49"/>
     <mtx name="uniFB20" width="1362" lsb="60"/>
     <mtx name="uniFB21" width="1918" lsb="85"/>
@@ -438,23 +437,23 @@
     <mtx name="uniFB3B" width="1147" lsb="56"/>
     <mtx name="uniFB3C" width="1148" lsb="56"/>
     <mtx name="uniFB3E" width="1393" lsb="91"/>
-    <mtx name="uniFB40" width="858" lsb="6"/>
+    <mtx name="uniFB40" width="858" lsb="5"/>
     <mtx name="uniFB41" width="1331" lsb="35"/>
     <mtx name="uniFB43" width="1317" lsb="127"/>
-    <mtx name="uniFB44" width="1394" lsb="126"/>
+    <mtx name="uniFB44" width="1394" lsb="127"/>
     <mtx name="uniFB46" width="1250" lsb="13"/>
-    <mtx name="uniFB47" width="1368" lsb="153"/>
+    <mtx name="uniFB47" width="1368" lsb="154"/>
     <mtx name="uniFB48" width="1024" lsb="21"/>
     <mtx name="uniFB49" width="1847" lsb="154"/>
     <mtx name="uniFB4A" width="1345" lsb="10"/>
-    <mtx name="uniFB4B" width="684" lsb="61"/>
+    <mtx name="uniFB4B" width="684" lsb="62"/>
     <mtx name="uniFB4C" width="1131" lsb="48"/>
     <mtx name="uniFB4D" width="1147" lsb="56"/>
-    <mtx name="uniFB4E" width="1394" lsb="126"/>
+    <mtx name="uniFB4E" width="1394" lsb="127"/>
     <mtx name="uniFB4F" width="1303" lsb="56"/>
     <mtx name="v" width="1068" lsb="-2"/>
     <mtx name="w" width="1480" lsb="20"/>
-    <mtx name="x" width="1060" lsb="8"/>
+    <mtx name="x" width="1060" lsb="7"/>
     <mtx name="y" width="1076" lsb="-9"/>
     <mtx name="yacute" width="1076" lsb="-9"/>
     <mtx name="ydieresis" width="1076" lsb="-9"/>

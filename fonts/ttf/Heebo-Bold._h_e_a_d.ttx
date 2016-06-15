@@ -5,15 +5,15 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="2.002"/>
-    <checkSumAdjustment value="0x6c0795e2"/>
+    <checkSumAdjustment value="0x136f244a"/>
     <magicNumber value="0x5f0f3cf5"/>
-    <flags value="00000000 00000001"/>
+    <flags value="00000000 00000011"/>
     <unitsPerEm value="2048"/>
     <created value="Wed Mar 30 11:22:10 2016"/>
-    <modified value="Wed Mar 30 14:15:43 2016"/>
+    <modified value="Wed Jun 15 18:35:18 2016"/>
     <xMin value="-1010"/>
     <yMin value="-803"/>
-    <xMax value="1888"/>
+    <xMax value="1887"/>
     <yMax value="2146"/>
     <macStyle value="00000000 00000001"/>
     <lowestRecPPEM value="7"/>

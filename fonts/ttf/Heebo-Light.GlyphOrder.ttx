@@ -326,27 +326,27 @@
     <GlyphID id="320" name="seven.tnum"/>
     <GlyphID id="321" name="eight.tnum"/>
     <GlyphID id="322" name="nine.tnum"/>
-    <GlyphID id="323" name="fraction"/>
-    <GlyphID id="324" name="uni2080"/>
-    <GlyphID id="325" name="uni2081"/>
-    <GlyphID id="326" name="uni2082"/>
-    <GlyphID id="327" name="uni2083"/>
-    <GlyphID id="328" name="uni2084"/>
-    <GlyphID id="329" name="uni2085"/>
-    <GlyphID id="330" name="uni2086"/>
-    <GlyphID id="331" name="uni2087"/>
-    <GlyphID id="332" name="uni2088"/>
-    <GlyphID id="333" name="uni2089"/>
-    <GlyphID id="334" name="uni2070"/>
-    <GlyphID id="335" name="uni00B9"/>
-    <GlyphID id="336" name="uni00B2"/>
-    <GlyphID id="337" name="uni00B3"/>
-    <GlyphID id="338" name="uni2074"/>
-    <GlyphID id="339" name="uni2075"/>
-    <GlyphID id="340" name="uni2076"/>
-    <GlyphID id="341" name="uni2077"/>
-    <GlyphID id="342" name="uni2078"/>
-    <GlyphID id="343" name="uni2079"/>
+    <GlyphID id="323" name="uni2080"/>
+    <GlyphID id="324" name="uni2081"/>
+    <GlyphID id="325" name="uni2082"/>
+    <GlyphID id="326" name="uni2083"/>
+    <GlyphID id="327" name="uni2084"/>
+    <GlyphID id="328" name="uni2085"/>
+    <GlyphID id="329" name="uni2086"/>
+    <GlyphID id="330" name="uni2087"/>
+    <GlyphID id="331" name="uni2088"/>
+    <GlyphID id="332" name="uni2089"/>
+    <GlyphID id="333" name="uni2070"/>
+    <GlyphID id="334" name="uni00B9"/>
+    <GlyphID id="335" name="uni00B2"/>
+    <GlyphID id="336" name="uni00B3"/>
+    <GlyphID id="337" name="uni2074"/>
+    <GlyphID id="338" name="uni2075"/>
+    <GlyphID id="339" name="uni2076"/>
+    <GlyphID id="340" name="uni2077"/>
+    <GlyphID id="341" name="uni2078"/>
+    <GlyphID id="342" name="uni2079"/>
+    <GlyphID id="343" name="fraction"/>
     <GlyphID id="344" name="zero.smcp"/>
     <GlyphID id="345" name="one.smcp"/>
     <GlyphID id="346" name="two.smcp"/>
@@ -406,55 +406,55 @@
     <GlyphID id="400" name="cent"/>
     <GlyphID id="401" name="currency"/>
     <GlyphID id="402" name="dollar"/>
-    <GlyphID id="403" name="sterling"/>
-    <GlyphID id="404" name="yen"/>
-    <GlyphID id="405" name="asciitilde"/>
-    <GlyphID id="406" name="divide"/>
-    <GlyphID id="407" name="equal"/>
-    <GlyphID id="408" name="greater"/>
-    <GlyphID id="409" name="less"/>
-    <GlyphID id="410" name="logicalnot"/>
-    <GlyphID id="411" name="minus"/>
-    <GlyphID id="412" name="multiply"/>
-    <GlyphID id="413" name="percent"/>
-    <GlyphID id="414" name="plus"/>
-    <GlyphID id="415" name="plusminus"/>
-    <GlyphID id="416" name="bar"/>
-    <GlyphID id="417" name="brokenbar"/>
-    <GlyphID id="418" name="at"/>
-    <GlyphID id="419" name="ampersand"/>
-    <GlyphID id="420" name="paragraph"/>
+    <GlyphID id="403" name="uni20AA"/>
+    <GlyphID id="404" name="sterling"/>
+    <GlyphID id="405" name="yen"/>
+    <GlyphID id="406" name="plus"/>
+    <GlyphID id="407" name="minus"/>
+    <GlyphID id="408" name="multiply"/>
+    <GlyphID id="409" name="divide"/>
+    <GlyphID id="410" name="equal"/>
+    <GlyphID id="411" name="greater"/>
+    <GlyphID id="412" name="less"/>
+    <GlyphID id="413" name="plusminus"/>
+    <GlyphID id="414" name="asciitilde"/>
+    <GlyphID id="415" name="logicalnot"/>
+    <GlyphID id="416" name="percent"/>
+    <GlyphID id="417" name="at"/>
+    <GlyphID id="418" name="ampersand"/>
+    <GlyphID id="419" name="paragraph"/>
+    <GlyphID id="420" name="section"/>
     <GlyphID id="421" name="copyright"/>
     <GlyphID id="422" name="registered"/>
-    <GlyphID id="423" name="section"/>
-    <GlyphID id="424" name="degree"/>
-    <GlyphID id="425" name="asciicircum"/>
-    <GlyphID id="426" name="ampersand.smcp"/>
-    <GlyphID id="427" name="dollar.smcp"/>
-    <GlyphID id="428" name="Euro.smcp"/>
-    <GlyphID id="429" name="sterling.smcp"/>
-    <GlyphID id="430" name="yen.smcp"/>
-    <GlyphID id="431" name="uniFB29"/>
-    <GlyphID id="432" name="gravecomb"/>
-    <GlyphID id="433" name="acutecomb"/>
-    <GlyphID id="434" name="tildecomb"/>
-    <GlyphID id="435" name="acute"/>
-    <GlyphID id="436" name="cedilla"/>
-    <GlyphID id="437" name="circumflex"/>
-    <GlyphID id="438" name="dieresis"/>
-    <GlyphID id="439" name="grave"/>
-    <GlyphID id="440" name="macron"/>
-    <GlyphID id="441" name="ring"/>
-    <GlyphID id="442" name="tilde"/>
-    <GlyphID id="443" name="uni05B0"/>
-    <GlyphID id="444" name="uni05B1"/>
-    <GlyphID id="445" name="uni05B2"/>
-    <GlyphID id="446" name="uni05B3"/>
-    <GlyphID id="447" name="uni05B4"/>
-    <GlyphID id="448" name="uni05B5"/>
-    <GlyphID id="449" name="uni05B6"/>
-    <GlyphID id="450" name="uni05B7"/>
-    <GlyphID id="451" name="uni05C7"/>
+    <GlyphID id="423" name="degree"/>
+    <GlyphID id="424" name="bar"/>
+    <GlyphID id="425" name="brokenbar"/>
+    <GlyphID id="426" name="asciicircum"/>
+    <GlyphID id="427" name="ampersand.smcp"/>
+    <GlyphID id="428" name="dollar.smcp"/>
+    <GlyphID id="429" name="Euro.smcp"/>
+    <GlyphID id="430" name="sterling.smcp"/>
+    <GlyphID id="431" name="yen.smcp"/>
+    <GlyphID id="432" name="uniFB29"/>
+    <GlyphID id="433" name="gravecomb"/>
+    <GlyphID id="434" name="acutecomb"/>
+    <GlyphID id="435" name="tildecomb"/>
+    <GlyphID id="436" name="acute"/>
+    <GlyphID id="437" name="cedilla"/>
+    <GlyphID id="438" name="circumflex"/>
+    <GlyphID id="439" name="dieresis"/>
+    <GlyphID id="440" name="grave"/>
+    <GlyphID id="441" name="macron"/>
+    <GlyphID id="442" name="ring"/>
+    <GlyphID id="443" name="tilde"/>
+    <GlyphID id="444" name="uni05B0"/>
+    <GlyphID id="445" name="uni05B1"/>
+    <GlyphID id="446" name="uni05B2"/>
+    <GlyphID id="447" name="uni05B3"/>
+    <GlyphID id="448" name="uni05B4"/>
+    <GlyphID id="449" name="uni05B5"/>
+    <GlyphID id="450" name="uni05B6"/>
+    <GlyphID id="451" name="uni05B7"/>
     <GlyphID id="452" name="uni05B8"/>
     <GlyphID id="453" name="uni05B9"/>
     <GlyphID id="454" name="uni05BA"/>
@@ -466,7 +466,6 @@
     <GlyphID id="460" name="longst"/>
     <GlyphID id="461" name="st"/>
     <GlyphID id="462" name="crossbar"/>
-    <GlyphID id="463" name=".ttfautohint"/>
   </GlyphOrder>
 
 </ttFont>

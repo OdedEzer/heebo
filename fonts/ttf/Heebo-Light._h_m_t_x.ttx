@@ -4,7 +4,6 @@
   <hmtx>
     <mtx name=".notdef" width="1351" lsb="251"/>
     <mtx name=".null" width="0" lsb="0"/>
-    <mtx name=".ttfautohint" width="865" lsb="0"/>
     <mtx name="A" width="1280" lsb="31"/>
     <mtx name="A.smcp" width="1108" lsb="24"/>
     <mtx name="AE" width="1865" lsb="18"/>
@@ -56,10 +55,10 @@
     <mtx name="I.smcp" width="474" lsb="177"/>
     <mtx name="Iacute" width="546" lsb="204"/>
     <mtx name="Iacute.smcp" width="474" lsb="168"/>
-    <mtx name="Icircumflex" width="546" lsb="-2"/>
-    <mtx name="Icircumflex.smcp" width="474" lsb="-38"/>
-    <mtx name="Idieresis" width="546" lsb="-25"/>
-    <mtx name="Idieresis.smcp" width="474" lsb="-61"/>
+    <mtx name="Icircumflex" width="546" lsb="-3"/>
+    <mtx name="Icircumflex.smcp" width="474" lsb="-39"/>
+    <mtx name="Idieresis" width="546" lsb="-26"/>
+    <mtx name="Idieresis.smcp" width="474" lsb="-62"/>
     <mtx name="Igrave" width="546" lsb="9"/>
     <mtx name="Igrave.smcp" width="474" lsb="-27"/>
     <mtx name="J" width="1128" lsb="72"/>
@@ -194,7 +193,7 @@
     <mtx name="exclam" width="462" lsb="154"/>
     <mtx name="exclamdown" width="453" lsb="141"/>
     <mtx name="f" width="678" lsb="63"/>
-    <mtx name="f_f" width="1357" lsb="63"/>
+    <mtx name="f_f" width="1356" lsb="63"/>
     <mtx name="f_f_i" width="1696" lsb="63"/>
     <mtx name="f_f_l" width="1696" lsb="63"/>
     <mtx name="f_l" width="1115" lsb="63"/>
@@ -228,7 +227,7 @@
     <mtx name="iacute" width="456" lsb="162"/>
     <mtx name="icircumflex" width="456" lsb="-45"/>
     <mtx name="idieresis" width="456" lsb="-68"/>
-    <mtx name="igrave" width="456" lsb="-34"/>
+    <mtx name="igrave" width="456" lsb="-33"/>
     <mtx name="j" width="468" lsb="-104"/>
     <mtx name="k" width="1004" lsb="157"/>
     <mtx name="k.alt" width="1006" lsb="159"/>
@@ -315,7 +314,7 @@
     <mtx name="three.sup" width="740" lsb="71"/>
     <mtx name="three.tnum" width="1118" lsb="0"/>
     <mtx name="tilde" width="892" lsb="107"/>
-    <mtx name="tildecomb" width="0" lsb="-855"/>
+    <mtx name="tildecomb" width="0" lsb="-854"/>
     <mtx name="two" width="1136" lsb="105"/>
     <mtx name="two.smcp" width="1025" lsb="91"/>
     <mtx name="two.sup" width="740" lsb="76"/>
@@ -347,7 +346,6 @@
     <mtx name="uni05BF" width="0" lsb="250"/>
     <mtx name="uni05C1" width="0" lsb="1214"/>
     <mtx name="uni05C2" width="0" lsb="148"/>
-    <mtx name="uni05C7" width="0" lsb="418"/>
     <mtx name="uni05D0" width="1271" lsb="161"/>
     <mtx name="uni05D1" width="1052" lsb="66"/>
     <mtx name="uni05D2" width="760" lsb="17"/>
@@ -380,7 +378,7 @@
     <mtx name="uni05E8.004" width="988" lsb="66"/>
     <mtx name="uni05E9" width="1544" lsb="186"/>
     <mtx name="uni05EA" width="1255" lsb="2"/>
-    <mtx name="uni05F0" width="1121" lsb="100"/>
+    <mtx name="uni05F0" width="1120" lsb="100"/>
     <mtx name="uni05F1" width="1140" lsb="100"/>
     <mtx name="uni05F2" width="1160" lsb="58"/>
     <mtx name="uni05F3" width="282" lsb="12"/>
@@ -408,6 +406,7 @@
     <mtx name="uni2087" width="740" lsb="62"/>
     <mtx name="uni2088" width="740" lsb="80"/>
     <mtx name="uni2089" width="740" lsb="76"/>
+    <mtx name="uni20AA" width="1617" lsb="161"/>
     <mtx name="uniFB1F" width="1160" lsb="58"/>
     <mtx name="uniFB20" width="1170" lsb="66"/>
     <mtx name="uniFB21" width="1763" lsb="161"/>
@@ -427,13 +426,13 @@
     <mtx name="uniFB2F" width="1271" lsb="161"/>
     <mtx name="uniFB30" width="1271" lsb="161"/>
     <mtx name="uniFB31" width="1052" lsb="66"/>
-    <mtx name="uniFB32" width="760" lsb="16"/>
+    <mtx name="uniFB32" width="760" lsb="17"/>
     <mtx name="uniFB33" width="1020" lsb="60"/>
     <mtx name="uniFB34" width="1181" lsb="159"/>
     <mtx name="uniFB35" width="560" lsb="19"/>
     <mtx name="uniFB36" width="688" lsb="80"/>
     <mtx name="uniFB38" width="1230" lsb="186"/>
-    <mtx name="uniFB39" width="580" lsb="43"/>
+    <mtx name="uniFB39" width="580" lsb="42"/>
     <mtx name="uniFB3A" width="979" lsb="62"/>
     <mtx name="uniFB3B" width="1082" lsb="93"/>
     <mtx name="uniFB3C" width="1032" lsb="91"/>

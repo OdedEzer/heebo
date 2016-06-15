@@ -218,7 +218,6 @@
       <map code="0x5bf" name="uni05BF"/><!-- HEBREW POINT RAFE -->
       <map code="0x5c1" name="uni05C1"/><!-- HEBREW POINT SHIN DOT -->
       <map code="0x5c2" name="uni05C2"/><!-- HEBREW POINT SIN DOT -->
-      <map code="0x5c7" name="uni05C7"/><!-- HEBREW POINT QAMATS QATAN -->
       <map code="0x5d0" name="uni05D0"/><!-- HEBREW LETTER ALEF -->
       <map code="0x5d1" name="uni05D1"/><!-- HEBREW LETTER BET -->
       <map code="0x5d2" name="uni05D2"/><!-- HEBREW LETTER GIMEL -->
@@ -286,6 +285,7 @@
       <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
       <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
       <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
+      <map code="0x20aa" name="uni20AA"/><!-- NEW SHEQEL SIGN -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->
@@ -797,7 +797,6 @@
       <map code="0x5bf" name="uni05BF"/><!-- HEBREW POINT RAFE -->
       <map code="0x5c1" name="uni05C1"/><!-- HEBREW POINT SHIN DOT -->
       <map code="0x5c2" name="uni05C2"/><!-- HEBREW POINT SIN DOT -->
-      <map code="0x5c7" name="uni05C7"/><!-- HEBREW POINT QAMATS QATAN -->
       <map code="0x5d0" name="uni05D0"/><!-- HEBREW LETTER ALEF -->
       <map code="0x5d1" name="uni05D1"/><!-- HEBREW LETTER BET -->
       <map code="0x5d2" name="uni05D2"/><!-- HEBREW LETTER GIMEL -->
@@ -865,6 +864,7 @@
       <map code="0x2087" name="uni2087"/><!-- SUBSCRIPT SEVEN -->
       <map code="0x2088" name="uni2088"/><!-- SUBSCRIPT EIGHT -->
       <map code="0x2089" name="uni2089"/><!-- SUBSCRIPT NINE -->
+      <map code="0x20aa" name="uni20AA"/><!-- NEW SHEQEL SIGN -->
       <map code="0x20ac" name="Euro"/><!-- EURO SIGN -->
       <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
       <map code="0xfb01" name="fi"/><!-- LATIN SMALL LIGATURE FI -->

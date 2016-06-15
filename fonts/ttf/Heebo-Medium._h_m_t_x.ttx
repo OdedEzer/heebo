@@ -4,7 +4,6 @@
   <hmtx>
     <mtx name=".notdef" width="1351" lsb="251"/>
     <mtx name=".null" width="0" lsb="0"/>
-    <mtx name=".ttfautohint" width="957" lsb="0"/>
     <mtx name="A" width="1365" lsb="17"/>
     <mtx name="A.smcp" width="1184" lsb="8"/>
     <mtx name="AE" width="1925" lsb="-8"/>
@@ -188,13 +187,13 @@
     <mtx name="eight.tnum" width="1166" lsb="104"/>
     <mtx name="ellipsis" width="1455" lsb="138"/>
     <mtx name="emdash" width="1581" lsb="126"/>
-    <mtx name="endash" width="1318" lsb="157"/>
+    <mtx name="endash" width="1318" lsb="156"/>
     <mtx name="equal" width="1150" lsb="144"/>
     <mtx name="eth" width="1190" lsb="101"/>
     <mtx name="exclam" width="550" lsb="141"/>
     <mtx name="exclamdown" width="548" lsb="133"/>
     <mtx name="f" width="727" lsb="43"/>
-    <mtx name="f_f" width="1455" lsb="43"/>
+    <mtx name="f_f" width="1454" lsb="43"/>
     <mtx name="f_f_i" width="1838" lsb="43"/>
     <mtx name="f_f_l" width="1838" lsb="43"/>
     <mtx name="f_l" width="1218" lsb="43"/>
@@ -347,7 +346,6 @@
     <mtx name="uni05BF" width="0" lsb="230"/>
     <mtx name="uni05C1" width="0" lsb="1287"/>
     <mtx name="uni05C2" width="0" lsb="172"/>
-    <mtx name="uni05C7" width="0" lsb="422"/>
     <mtx name="uni05D0" width="1349" lsb="130"/>
     <mtx name="uni05D1" width="1098" lsb="56"/>
     <mtx name="uni05D2" width="851" lsb="16"/>
@@ -382,7 +380,7 @@
     <mtx name="uni05EA" width="1303" lsb="10"/>
     <mtx name="uni05F0" width="1268" lsb="88"/>
     <mtx name="uni05F1" width="1298" lsb="88"/>
-    <mtx name="uni05F2" width="1327" lsb="53"/>
+    <mtx name="uni05F2" width="1328" lsb="53"/>
     <mtx name="uni05F3" width="407" lsb="17"/>
     <mtx name="uni05F4" width="812" lsb="37"/>
     <mtx name="uni1E9E" width="1359" lsb="113"/>
@@ -408,7 +406,8 @@
     <mtx name="uni2087" width="759" lsb="54"/>
     <mtx name="uni2088" width="759" lsb="75"/>
     <mtx name="uni2089" width="759" lsb="70"/>
-    <mtx name="uniFB1F" width="1327" lsb="53"/>
+    <mtx name="uni20AA" width="1831" lsb="142"/>
+    <mtx name="uniFB1F" width="1328" lsb="53"/>
     <mtx name="uniFB20" width="1269" lsb="60"/>
     <mtx name="uniFB21" width="1852" lsb="130"/>
     <mtx name="uniFB22" width="1396" lsb="60"/>
@@ -433,7 +432,7 @@
     <mtx name="uniFB35" width="634" lsb="-44"/>
     <mtx name="uniFB36" width="762" lsb="71"/>
     <mtx name="uniFB38" width="1288" lsb="172"/>
-    <mtx name="uniFB39" width="664" lsb="-18"/>
+    <mtx name="uniFB39" width="664" lsb="-19"/>
     <mtx name="uniFB3A" width="1044" lsb="67"/>
     <mtx name="uniFB3B" width="1118" lsb="71"/>
     <mtx name="uniFB3C" width="1084" lsb="73"/>

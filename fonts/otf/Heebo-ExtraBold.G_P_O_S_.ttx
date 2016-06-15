@@ -1765,7 +1765,6 @@
             <Glyph value="uni05B5"/>
             <Glyph value="uni05B6"/>
             <Glyph value="uni05B7"/>
-            <Glyph value="uni05C7"/>
             <Glyph value="uni05B8"/>
             <Glyph value="uni05BB"/>
             <Glyph value="uni05BF"/>
@@ -1775,7 +1774,7 @@
           </BaseCoverage>
           <!-- ClassCount=2 -->
           <MarkArray>
-            <!-- MarkCount=15 -->
+            <!-- MarkCount=14 -->
             <MarkRecord index="0">
               <Class value="1"/>
               <MarkAnchor Format="1">
@@ -1856,7 +1855,7 @@
             <MarkRecord index="11">
               <Class value="0"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="640"/>
+                <XCoordinate value="637"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
@@ -1868,13 +1867,6 @@
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
-              <Class value="0"/>
-              <MarkAnchor Format="1">
-                <XCoordinate value="637"/>
-                <YCoordinate value="0"/>
-              </MarkAnchor>
-            </MarkRecord>
-            <MarkRecord index="14">
               <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="515"/>
@@ -1914,7 +1906,6 @@
             <Glyph value="uni05B5"/>
             <Glyph value="uni05B6"/>
             <Glyph value="uni05B7"/>
-            <Glyph value="uni05C7"/>
             <Glyph value="uni05B8"/>
             <Glyph value="uni05B9"/>
             <Glyph value="uni05BA"/>
@@ -2002,7 +1993,7 @@
           </BaseCoverage>
           <!-- ClassCount=5 -->
           <MarkArray>
-            <!-- MarkCount=20 -->
+            <!-- MarkCount=19 -->
             <MarkRecord index="0">
               <Class value="2"/>
               <MarkAnchor Format="1">
@@ -2083,15 +2074,15 @@
             <MarkRecord index="11">
               <Class value="0"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="640"/>
+                <XCoordinate value="637"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="12">
-              <Class value="0"/>
+              <Class value="3"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="637"/>
-                <YCoordinate value="0"/>
+                <XCoordinate value="306"/>
+                <YCoordinate value="1201"/>
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
@@ -2102,41 +2093,34 @@
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="14">
-              <Class value="3"/>
-              <MarkAnchor Format="1">
-                <XCoordinate value="306"/>
-                <YCoordinate value="1201"/>
-              </MarkAnchor>
-            </MarkRecord>
-            <MarkRecord index="15">
               <Class value="0"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="637"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="16">
+            <MarkRecord index="15">
               <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="335"/>
                 <YCoordinate value="603"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="17">
+            <MarkRecord index="16">
               <Class value="2"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="515"/>
                 <YCoordinate value="1201"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="18">
+            <MarkRecord index="17">
               <Class value="4"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="0"/>
                 <YCoordinate value="1201"/>
               </MarkAnchor>
             </MarkRecord>
-            <MarkRecord index="19">
+            <MarkRecord index="18">
               <Class value="3"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="0"/>
@@ -2314,7 +2298,7 @@
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="3" Format="1">
-                <XCoordinate value="29"/>
+                <XCoordinate value="30"/>
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
@@ -2611,7 +2595,7 @@
             <BaseRecord index="21">
               <BaseAnchor index="0" Format="1">
                 <XCoordinate value="113"/>
-                <YCoordinate value="368"/>
+                <YCoordinate value="369"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
                 <XCoordinate value="266"/>
@@ -2732,7 +2716,7 @@
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="3" Format="1">
-                <XCoordinate value="22"/>
+                <XCoordinate value="23"/>
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
@@ -2772,7 +2756,7 @@
                 <YCoordinate value="908"/>
               </BaseAnchor>
               <BaseAnchor index="2" Format="1">
-                <XCoordinate value="639"/>
+                <XCoordinate value="640"/>
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="3" Format="1">
@@ -3568,7 +3552,7 @@
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="3" Format="1">
-                <XCoordinate value="22"/>
+                <XCoordinate value="23"/>
                 <YCoordinate value="1201"/>
               </BaseAnchor>
               <BaseAnchor index="4" Format="1">
@@ -3794,7 +3778,6 @@
             <Glyph value="uni05B5"/>
             <Glyph value="uni05B6"/>
             <Glyph value="uni05B7"/>
-            <Glyph value="uni05C7"/>
             <Glyph value="uni05B8"/>
             <Glyph value="uni05BB"/>
             <Glyph value="uni05BF"/>
@@ -3975,7 +3958,7 @@
           </BaseCoverage>
           <!-- ClassCount=2 -->
           <MarkArray>
-            <!-- MarkCount=15 -->
+            <!-- MarkCount=14 -->
             <MarkRecord index="0">
               <Class value="1"/>
               <MarkAnchor Format="1">
@@ -4056,7 +4039,7 @@
             <MarkRecord index="11">
               <Class value="0"/>
               <MarkAnchor Format="1">
-                <XCoordinate value="640"/>
+                <XCoordinate value="637"/>
                 <YCoordinate value="0"/>
               </MarkAnchor>
             </MarkRecord>
@@ -4068,13 +4051,6 @@
               </MarkAnchor>
             </MarkRecord>
             <MarkRecord index="13">
-              <Class value="0"/>
-              <MarkAnchor Format="1">
-                <XCoordinate value="637"/>
-                <YCoordinate value="0"/>
-              </MarkAnchor>
-            </MarkRecord>
-            <MarkRecord index="14">
               <Class value="1"/>
               <MarkAnchor Format="1">
                 <XCoordinate value="515"/>
@@ -5250,7 +5226,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>
@@ -5260,7 +5236,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>
@@ -5270,7 +5246,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>
@@ -5280,7 +5256,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>
@@ -5290,7 +5266,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>
@@ -5300,7 +5276,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>
@@ -5310,7 +5286,7 @@
                 <YCoordinate value="0"/>
               </BaseAnchor>
               <BaseAnchor index="1" Format="1">
-                <XCoordinate value="603"/>
+                <XCoordinate value="604"/>
                 <YCoordinate value="1320"/>
               </BaseAnchor>
             </BaseRecord>

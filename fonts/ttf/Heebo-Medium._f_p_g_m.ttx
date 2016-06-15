@@ -86,7 +86,7 @@
       MINDEX[ ]	/* MoveXToTopStack */
       AND[ ]	/* LogicalAnd */
       PUSH[ ]	/* 3 values pushed */
-      40 1 11
+      40 1 10
       RS[ ]	/* ReadStore */
       RCVT[ ]	/* ReadCVT */
       MUL[ ]	/* Multiply */
@@ -131,7 +131,7 @@
       EIF[ ]	/* EndIf */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 2 values pushed */
-      1 11
+      1 10
       RS[ ]	/* ReadStore */
       RCVT[ ]	/* ReadCVT */
       MUL[ ]	/* Multiply */
@@ -144,7 +144,7 @@
       IF[ ]	/* If */
       POP[ ]	/* PopTopStack */
       PUSH[ ]	/* 2 values pushed */
-      1 11
+      1 10
       RS[ ]	/* ReadStore */
       RCVT[ ]	/* ReadCVT */
       MUL[ ]	/* Multiply */
@@ -202,54 +202,6 @@
       EIF[ ]	/* EndIf */
       EIF[ ]	/* EndIf */
       ELSE[ ]	/* Else */
-      PUSH[ ]	/* 1 value pushed */
-      2
-      CINDEX[ ]	/* CopyXToTopStack */
-      PUSH[ ]	/* 1 value pushed */
-      10
-      RS[ ]	/* ReadStore */
-      MUL[ ]	/* Multiply */
-      PUSH[ ]	/* 1 value pushed */
-      0
-      GT[ ]	/* GreaterThan */
-      IF[ ]	/* If */
-      PUSH[ ]	/* 1 value pushed */
-      0
-      MPPEM[ ]	/* MeasurePixelPerEm */
-      PUSH[ ]	/* 1 value pushed */
-      10
-      LT[ ]	/* LessThan */
-      IF[ ]	/* If */
-      POP[ ]	/* PopTopStack */
-      PUSH[ ]	/* 1 value pushed */
-      10
-      RS[ ]	/* ReadStore */
-      ELSE[ ]	/* Else */
-      MPPEM[ ]	/* MeasurePixelPerEm */
-      PUSH[ ]	/* 1 value pushed */
-      30
-      LT[ ]	/* LessThan */
-      IF[ ]	/* If */
-      POP[ ]	/* PopTopStack */
-      PUSH[ ]	/* 1 value pushed */
-      30
-      MPPEM[ ]	/* MeasurePixelPerEm */
-      SUB[ ]	/* Subtract */
-      PUSH[ ]	/* 1 value pushed */
-      4096
-      MUL[ ]	/* Multiply */
-      PUSH[ ]	/* 1 value pushed */
-      10
-      RS[ ]	/* ReadStore */
-      MUL[ ]	/* Multiply */
-      PUSH[ ]	/* 1 value pushed */
-      1280
-      DIV[ ]	/* Divide */
-      EIF[ ]	/* EndIf */
-      EIF[ ]	/* EndIf */
-      ABS[ ]	/* Absolute */
-      SUB[ ]	/* Subtract */
-      EIF[ ]	/* EndIf */
       PUSH[ ]	/* 1 value pushed */
       1
       CALL[ ]	/* CallFunction */
@@ -320,12 +272,12 @@
       IF[ ]	/* If */
       ELSE[ ]	/* Else */
       PUSH[ ]	/* 2 values pushed */
-      1 11
+      1 10
       RS[ ]	/* ReadStore */
       RCVT[ ]	/* ReadCVT */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 2 values pushed */
-      1 11
+      1 10
       RS[ ]	/* ReadStore */
       PUSH[ ]	/* 1 value pushed */
       4
@@ -436,7 +388,7 @@
       RCVT[ ]	/* ReadCVT */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -465,7 +417,7 @@
       8
       FDEF[ ]	/* FunctionDefinition */
       PUSH[ ]	/* 3 values pushed */
-      7 12 0
+      7 11 0
       RS[ ]	/* ReadStore */
       RCVT[ ]	/* ReadCVT */
       WS[ ]	/* WriteStore */
@@ -647,7 +599,7 @@
       DUP[ ]	/* DuplicateTopStack */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      13
+      12
       RS[ ]	/* ReadStore */
       MD[1]	/* MeasureDistance */
       PUSH[ ]	/* 1 value pushed */
@@ -656,12 +608,12 @@
       IF[ ]	/* If */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      13
+      12
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       EIF[ ]	/* EndIf */
       PUSH[ ]	/* 1 value pushed */
-      14
+      13
       RS[ ]	/* ReadStore */
       MD[1]	/* MeasureDistance */
       PUSH[ ]	/* 1 value pushed */
@@ -670,7 +622,7 @@
       IF[ ]	/* If */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      14
+      13
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       EIF[ ]	/* EndIf */
@@ -694,7 +646,7 @@
       SWAP[ ]	/* SwapTopStack */
       SUB[ ]	/* Subtract */
       PUSH[ ]	/* 1 value pushed */
-      15
+      14
       RS[ ]	/* ReadStore */
       ADD[ ]	/* Add */
       DUP[ ]	/* DuplicateTopStack */
@@ -702,7 +654,7 @@
       ADD[ ]	/* Add */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      15
+      14
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       SWAP[ ]	/* SwapTopStack */
@@ -751,12 +703,12 @@
       18
       FDEF[ ]	/* FunctionDefinition */
       PUSH[ ]	/* 2 values pushed */
-      0 16
+      0 15
       RS[ ]	/* ReadStore */
       NEQ[ ]	/* NotEqual */
       IF[ ]	/* If */
       PUSH[ ]	/* 2 values pushed */
-      16 16
+      15 15
       RS[ ]	/* ReadStore */
       PUSH[ ]	/* 1 value pushed */
       1
@@ -774,11 +726,11 @@
       CINDEX[ ]	/* CopyXToTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 2 values pushed */
-      13 2
+      12 2
       CINDEX[ ]	/* CopyXToTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 2 values pushed */
-      14 2
+      13 2
       CINDEX[ ]	/* CopyXToTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
@@ -840,11 +792,11 @@
       POP[ ]	/* PopTopStack */
       EIF[ ]	/* EndIf */
       PUSH[ ]	/* 1 value pushed */
-      13
+      12
       RS[ ]	/* ReadStore */
       GC[1]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      14
+      13
       RS[ ]	/* ReadStore */
       GC[1]	/* GetCoordOnPVector */
       ADD[ ]	/* Add */
@@ -866,7 +818,7 @@
       MUL[ ]	/* Multiply */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -913,17 +865,17 @@
       EQ[ ]	/* Equal */
       IF[ ]	/* If */
       PUSH[ ]	/* 1 value pushed */
-      16
+      15
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */
       RCVT[ ]	/* ReadCVT */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
-      11
+      10
       SWAP[ ]	/* SwapTopStack */
       PUSH[ ]	/* 1 value pushed */
       4
@@ -935,7 +887,7 @@
       1
       SUB[ ]	/* Subtract */
       PUSH[ ]	/* 6 values pushed */
-      18 18 1 0 15 0
+      17 17 1 0 14 0
       WS[ ]	/* WriteStore */
       WS[ ]	/* WriteStore */
       ROLL[ ]	/* RollTopThreeStack */
@@ -1120,17 +1072,17 @@
       EQ[ ]	/* Equal */
       IF[ ]	/* If */
       PUSH[ ]	/* 1 value pushed */
-      16
+      15
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */
       RCVT[ ]	/* ReadCVT */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
-      11
+      10
       SWAP[ ]	/* SwapTopStack */
       PUSH[ ]	/* 1 value pushed */
       4
@@ -1142,7 +1094,7 @@
       1
       SUB[ ]	/* Subtract */
       PUSH[ ]	/* 6 values pushed */
-      18 18 1 0 15 0
+      17 17 1 0 14 0
       WS[ ]	/* WriteStore */
       WS[ ]	/* WriteStore */
       ROLL[ ]	/* RollTopThreeStack */
@@ -1242,7 +1194,7 @@
       DUP[ ]	/* DuplicateTopStack */
       ADD[ ]	/* Add */
       PUSH[ ]	/* 1 value pushed */
-      18
+      17
       ADD[ ]	/* Add */
       DUP[ ]	/* DuplicateTopStack */
       RS[ ]	/* ReadStore */
@@ -1282,7 +1234,7 @@
       DUP[ ]	/* DuplicateTopStack */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -1315,7 +1267,7 @@
       DUP[ ]	/* DuplicateTopStack */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -1434,7 +1386,7 @@
       1
       CALL[ ]	/* CallFunction */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -1480,7 +1432,7 @@
       GC[1]	/* GetCoordOnPVector */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -1522,7 +1474,7 @@
       GC[1]	/* GetCoordOnPVector */
       DUP[ ]	/* DuplicateTopStack */
       PUSH[ ]	/* 1 value pushed */
-      12
+      11
       RS[ ]	/* ReadStore */
       MUL[ ]	/* Multiply */
       PUSH[ ]	/* 1 value pushed */
@@ -1601,7 +1553,7 @@
       0
       SZPS[ ]	/* SetZonePointerS */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
@@ -1615,9 +1567,6 @@
       GC[1]	/* GetCoordOnPVector */
       SWAP[ ]	/* SwapTopStack */
       SUB[ ]	/* Subtract */
-      PUSH[ ]	/* 2 values pushed */
-      10 0
-      WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
       9
       RS[ ]	/* ReadStore */
@@ -1639,7 +1588,7 @@
       0
       SZPS[ ]	/* SetZonePointerS */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
@@ -1659,9 +1608,6 @@
       PUSH[ ]	/* 1 value pushed */
       4
       SWAP[ ]	/* SwapTopStack */
-      WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 2 values pushed */
-      10 0
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
       9
@@ -1900,7 +1846,7 @@
       0
       SZPS[ ]	/* SetZonePointerS */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */
@@ -1927,7 +1873,7 @@
       0
       SZPS[ ]	/* SetZonePointerS */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */
@@ -1955,7 +1901,7 @@
       0
       SZPS[ ]	/* SetZonePointerS */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
@@ -2061,7 +2007,7 @@
       0
       SZPS[ ]	/* SetZonePointerS */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       SWAP[ ]	/* SwapTopStack */
       WS[ ]	/* WriteStore */
       DUP[ ]	/* DuplicateTopStack */
@@ -2116,7 +2062,7 @@
       CINDEX[ ]	/* CopyXToTopStack */
       GC[0]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       RS[ ]	/* ReadStore */
       IF[ ]	/* If */
       LT[ ]	/* LessThan */
@@ -2145,7 +2091,7 @@
       CINDEX[ ]	/* CopyXToTopStack */
       GC[0]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       RS[ ]	/* ReadStore */
       IF[ ]	/* If */
       GT[ ]	/* GreaterThan */
@@ -2174,7 +2120,7 @@
       CINDEX[ ]	/* CopyXToTopStack */
       GC[0]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       RS[ ]	/* ReadStore */
       IF[ ]	/* If */
       LT[ ]	/* LessThan */
@@ -2194,7 +2140,7 @@
       CINDEX[ ]	/* CopyXToTopStack */
       GC[0]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       RS[ ]	/* ReadStore */
       IF[ ]	/* If */
       GT[ ]	/* GreaterThan */
@@ -2226,7 +2172,7 @@
       CINDEX[ ]	/* CopyXToTopStack */
       GC[0]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       RS[ ]	/* ReadStore */
       IF[ ]	/* If */
       LT[ ]	/* LessThan */
@@ -2268,7 +2214,7 @@
       CINDEX[ ]	/* CopyXToTopStack */
       GC[0]	/* GetCoordOnPVector */
       PUSH[ ]	/* 1 value pushed */
-      17
+      16
       RS[ ]	/* ReadStore */
       IF[ ]	/* If */
       LT[ ]	/* LessThan */
@@ -2305,16 +2251,6 @@
       4
       MINDEX[ ]	/* MoveXToTopStack */
       DUP[ ]	/* DuplicateTopStack */
-      DUP[ ]	/* DuplicateTopStack */
-      DUP[ ]	/* DuplicateTopStack */
-      GC[0]	/* GetCoordOnPVector */
-      SWAP[ ]	/* SwapTopStack */
-      GC[1]	/* GetCoordOnPVector */
-      SUB[ ]	/* Subtract */
-      PUSH[ ]	/* 1 value pushed */
-      10
-      SWAP[ ]	/* SwapTopStack */
-      WS[ ]	/* WriteStore */
       MDAP[0]	/* MoveDirectAbsPt */
       GC[1]	/* GetCoordOnPVector */
       SWAP[ ]	/* SwapTopStack */
@@ -2364,9 +2300,6 @@
       PUSH[ ]	/* 1 value pushed */
       4
       SWAP[ ]	/* SwapTopStack */
-      WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 2 values pushed */
-      10 0
       WS[ ]	/* WriteStore */
       PUSH[ ]	/* 1 value pushed */
       9

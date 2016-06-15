@@ -4,19 +4,19 @@
   <hmtx>
     <mtx name=".notdef" width="1351" lsb="250"/>
     <mtx name=".null" width="0" lsb="0"/>
-    <mtx name="A" width="1383" lsb="4"/>
+    <mtx name="A" width="1383" lsb="5"/>
     <mtx name="A.smcp" width="1201" lsb="-4"/>
-    <mtx name="AE" width="1926" lsb="5"/>
+    <mtx name="AE" width="1926" lsb="6"/>
     <mtx name="AE.smcp" width="1619" lsb="-49"/>
-    <mtx name="Aacute" width="1383" lsb="4"/>
+    <mtx name="Aacute" width="1383" lsb="5"/>
     <mtx name="Aacute.smcp" width="1201" lsb="-4"/>
-    <mtx name="Acircumflex" width="1383" lsb="4"/>
+    <mtx name="Acircumflex" width="1383" lsb="5"/>
     <mtx name="Acircumflex.smcp" width="1201" lsb="-4"/>
-    <mtx name="Adieresis" width="1383" lsb="4"/>
+    <mtx name="Adieresis" width="1383" lsb="5"/>
     <mtx name="Adieresis.smcp" width="1201" lsb="-4"/>
-    <mtx name="Agrave" width="1383" lsb="4"/>
+    <mtx name="Agrave" width="1383" lsb="5"/>
     <mtx name="Agrave.smcp" width="1201" lsb="-4"/>
-    <mtx name="Aring" width="1383" lsb="4"/>
+    <mtx name="Aring" width="1383" lsb="5"/>
     <mtx name="Aring.smcp" width="1201" lsb="-4"/>
     <mtx name="Atilde" width="1383" lsb="5"/>
     <mtx name="Atilde.smcp" width="1201" lsb="-4"/>
@@ -24,7 +24,7 @@
     <mtx name="B.smcp" width="1137" lsb="94"/>
     <mtx name="C" width="1342" lsb="81"/>
     <mtx name="C.smcp" width="1157" lsb="59"/>
-    <mtx name="C.ss06" width="1382" lsb="83"/>
+    <mtx name="C.ss06" width="1382" lsb="82"/>
     <mtx name="Ccedilla" width="1342" lsb="81"/>
     <mtx name="Ccedilla.smcp" width="1157" lsb="59"/>
     <mtx name="D" width="1330" lsb="124"/>
@@ -40,27 +40,27 @@
     <mtx name="Edieresis.smcp" width="986" lsb="94"/>
     <mtx name="Egrave" width="1151" lsb="124"/>
     <mtx name="Egrave.smcp" width="986" lsb="94"/>
-    <mtx name="Eth" width="1330" lsb="-23"/>
-    <mtx name="Eth.smcp" width="1140" lsb="-116"/>
+    <mtx name="Eth" width="1330" lsb="-22"/>
+    <mtx name="Eth.smcp" width="1140" lsb="-115"/>
     <mtx name="Euro" width="1178" lsb="88"/>
     <mtx name="Euro.smcp" width="1031" lsb="71"/>
     <mtx name="F" width="1122" lsb="124"/>
     <mtx name="F.smcp" width="963" lsb="94"/>
     <mtx name="G" width="1396" lsb="90"/>
-    <mtx name="G.smcp" width="1185" lsb="71"/>
+    <mtx name="G.smcp" width="1185" lsb="70"/>
     <mtx name="G.ss06" width="1422" lsb="82"/>
     <mtx name="H" width="1446" lsb="124"/>
     <mtx name="H.smcp" width="1237" lsb="94"/>
     <mtx name="I" width="603" lsb="144"/>
     <mtx name="I.smcp" width="532" lsb="114"/>
     <mtx name="Iacute" width="603" lsb="144"/>
-    <mtx name="Iacute.smcp" width="532" lsb="115"/>
-    <mtx name="Icircumflex" width="603" lsb="-90"/>
-    <mtx name="Icircumflex.smcp" width="532" lsb="-124"/>
+    <mtx name="Iacute.smcp" width="532" lsb="114"/>
+    <mtx name="Icircumflex" width="603" lsb="-89"/>
+    <mtx name="Icircumflex.smcp" width="532" lsb="-123"/>
     <mtx name="Idieresis" width="603" lsb="-89"/>
     <mtx name="Idieresis.smcp" width="532" lsb="-123"/>
     <mtx name="Igrave" width="603" lsb="-56"/>
-    <mtx name="Igrave.smcp" width="532" lsb="-91"/>
+    <mtx name="Igrave.smcp" width="532" lsb="-90"/>
     <mtx name="J" width="1146" lsb="39"/>
     <mtx name="J.smcp" width="990" lsb="31"/>
     <mtx name="K" width="1303" lsb="124"/>
@@ -78,7 +78,7 @@
     <mtx name="O" width="1414" lsb="81"/>
     <mtx name="O.smcp" width="1216" lsb="59"/>
     <mtx name="O.ss06" width="1492" lsb="82"/>
-    <mtx name="OE" width="1986" lsb="96"/>
+    <mtx name="OE" width="1986" lsb="95"/>
     <mtx name="Oacute" width="1414" lsb="81"/>
     <mtx name="Oacute.smcp" width="1216" lsb="59"/>
     <mtx name="Ocircumflex" width="1414" lsb="81"/>
@@ -89,11 +89,11 @@
     <mtx name="Ograve.smcp" width="1216" lsb="59"/>
     <mtx name="Oslash" width="1411" lsb="89"/>
     <mtx name="Oslash.smcp" width="1216" lsb="59"/>
-    <mtx name="Otilde" width="1414" lsb="82"/>
-    <mtx name="Otilde.smcp" width="1216" lsb="60"/>
+    <mtx name="Otilde" width="1414" lsb="81"/>
+    <mtx name="Otilde.smcp" width="1216" lsb="59"/>
     <mtx name="P" width="1325" lsb="124"/>
     <mtx name="P.smcp" width="1147" lsb="94"/>
-    <mtx name="Q" width="1414" lsb="81"/>
+    <mtx name="Q" width="1414" lsb="80"/>
     <mtx name="Q.smcp" width="1216" lsb="62"/>
     <mtx name="Q.ss06" width="1492" lsb="82"/>
     <mtx name="R" width="1315" lsb="124"/>
@@ -115,8 +115,8 @@
     <mtx name="Udieresis.smcp" width="1170" lsb="90"/>
     <mtx name="Ugrave" width="1352" lsb="112"/>
     <mtx name="Ugrave.smcp" width="1170" lsb="90"/>
-    <mtx name="V" width="1343" lsb="4"/>
-    <mtx name="V.smcp" width="1164" lsb="-5"/>
+    <mtx name="V" width="1343" lsb="5"/>
+    <mtx name="V.smcp" width="1164" lsb="-4"/>
     <mtx name="W" width="1789" lsb="31"/>
     <mtx name="W.smcp" width="1531" lsb="28"/>
     <mtx name="X" width="1304" lsb="17"/>
@@ -138,11 +138,11 @@
     <mtx name="alpha" width="1154" lsb="70"/>
     <mtx name="alpha.alt" width="1193" lsb="70"/>
     <mtx name="ampersand" width="1354" lsb="67"/>
-    <mtx name="ampersand.smcp" width="1347" lsb="84"/>
+    <mtx name="ampersand.smcp" width="1347" lsb="83"/>
     <mtx name="aring" width="1096" lsb="62"/>
     <mtx name="asciicircum" width="901" lsb="42"/>
     <mtx name="asciitilde" width="1320" lsb="102"/>
-    <mtx name="asterisk" width="935" lsb="27"/>
+    <mtx name="asterisk" width="935" lsb="26"/>
     <mtx name="at" width="1834" lsb="78"/>
     <mtx name="atilde" width="1096" lsb="62"/>
     <mtx name="b" width="1153" lsb="107"/>
@@ -152,14 +152,14 @@
     <mtx name="braceleft" width="674" lsb="45"/>
     <mtx name="braceright" width="674" lsb="35"/>
     <mtx name="bracketleft" width="572" lsb="116"/>
-    <mtx name="bracketright" width="572" lsb="13"/>
+    <mtx name="bracketright" width="572" lsb="14"/>
     <mtx name="brokenbar" width="519" lsb="125"/>
     <mtx name="bullet" width="742" lsb="134"/>
     <mtx name="c" width="1068" lsb="62"/>
     <mtx name="c.ss06" width="1098" lsb="64"/>
     <mtx name="ccedilla" width="1068" lsb="62"/>
     <mtx name="cedilla" width="554" lsb="94"/>
-    <mtx name="cent" width="1187" lsb="100"/>
+    <mtx name="cent" width="1187" lsb="99"/>
     <mtx name="circumflex" width="1021" lsb="116"/>
     <mtx name="colon" width="588" lsb="122"/>
     <mtx name="comma" width="514" lsb="37"/>
@@ -171,8 +171,8 @@
     <mtx name="degree" width="801" lsb="125"/>
     <mtx name="dieresis" width="971" lsb="94"/>
     <mtx name="divide" width="1168" lsb="62"/>
-    <mtx name="dollar" width="1178" lsb="90"/>
-    <mtx name="dollar.smcp" width="1103" lsb="58"/>
+    <mtx name="dollar" width="1178" lsb="89"/>
+    <mtx name="dollar.smcp" width="1103" lsb="57"/>
     <mtx name="dotlessi" width="567" lsb="130"/>
     <mtx name="e" width="1110" lsb="69"/>
     <mtx name="e.ss07" width="1110" lsb="69"/>
@@ -180,30 +180,30 @@
     <mtx name="ecircumflex" width="1110" lsb="69"/>
     <mtx name="edieresis" width="1110" lsb="69"/>
     <mtx name="egrave" width="1110" lsb="69"/>
-    <mtx name="eight" width="1178" lsb="92"/>
+    <mtx name="eight" width="1178" lsb="91"/>
     <mtx name="eight.frac" width="764" lsb="70"/>
     <mtx name="eight.smcp" width="1067" lsb="75"/>
     <mtx name="eight.sup" width="764" lsb="70"/>
-    <mtx name="eight.tnum" width="1178" lsb="92"/>
+    <mtx name="eight.tnum" width="1178" lsb="91"/>
     <mtx name="ellipsis" width="1534" lsb="131"/>
-    <mtx name="emdash" width="1557" lsb="102"/>
+    <mtx name="emdash" width="1557" lsb="101"/>
     <mtx name="endash" width="1287" lsb="149"/>
     <mtx name="equal" width="1180" lsb="134"/>
     <mtx name="eth" width="1176" lsb="78"/>
     <mtx name="exclam" width="560" lsb="118"/>
     <mtx name="exclamdown" width="588" lsb="126"/>
-    <mtx name="f" width="737" lsb="25"/>
-    <mtx name="f_f" width="1473" lsb="24"/>
-    <mtx name="f_f_i" width="1922" lsb="25"/>
+    <mtx name="f" width="737" lsb="24"/>
+    <mtx name="f_f" width="1474" lsb="24"/>
+    <mtx name="f_f_i" width="1922" lsb="24"/>
     <mtx name="f_f_l" width="1922" lsb="24"/>
     <mtx name="f_l" width="1267" lsb="24"/>
-    <mtx name="fi" width="1261" lsb="20"/>
+    <mtx name="fi" width="1261" lsb="19"/>
     <mtx name="five" width="1178" lsb="98"/>
     <mtx name="five.frac" width="764" lsb="66"/>
     <mtx name="five.smcp" width="1067" lsb="72"/>
     <mtx name="five.sup" width="764" lsb="66"/>
     <mtx name="five.tnum" width="1131" lsb="0"/>
-    <mtx name="four" width="1178" lsb="57"/>
+    <mtx name="four" width="1178" lsb="56"/>
     <mtx name="four.frac" width="764" lsb="53"/>
     <mtx name="four.smcp" width="1067" lsb="52"/>
     <mtx name="four.sup" width="764" lsb="53"/>
@@ -218,14 +218,14 @@
     <mtx name="gravecomb" width="0" lsb="-900"/>
     <mtx name="greater" width="1056" lsb="117"/>
     <mtx name="guillemotleft" width="1031" lsb="72"/>
-    <mtx name="guillemotright" width="1031" lsb="82"/>
+    <mtx name="guillemotright" width="1031" lsb="83"/>
     <mtx name="guilsinglleft" width="642" lsb="107"/>
     <mtx name="guilsinglright" width="619" lsb="79"/>
     <mtx name="h" width="1149" lsb="99"/>
     <mtx name="hyphen" width="828" lsb="121"/>
     <mtx name="i" width="549" lsb="104"/>
     <mtx name="iacute" width="567" lsb="130"/>
-    <mtx name="icircumflex" width="567" lsb="-107"/>
+    <mtx name="icircumflex" width="567" lsb="-106"/>
     <mtx name="idieresis" width="567" lsb="-106"/>
     <mtx name="igrave" width="567" lsb="-73"/>
     <mtx name="j" width="538" lsb="-101"/>
@@ -263,12 +263,12 @@
     <mtx name="ordfeminine" width="908" lsb="136"/>
     <mtx name="ordmasculine" width="937" lsb="117"/>
     <mtx name="oslash" width="1155" lsb="62"/>
-    <mtx name="otilde" width="1156" lsb="63"/>
+    <mtx name="otilde" width="1156" lsb="62"/>
     <mtx name="p" width="1153" lsb="107"/>
     <mtx name="p.ss06" width="1174" lsb="107"/>
     <mtx name="paragraph" width="1003" lsb="76"/>
     <mtx name="parenleft" width="720" lsb="123"/>
-    <mtx name="parenright" width="722" lsb="40"/>
+    <mtx name="parenright" width="722" lsb="39"/>
     <mtx name="percent" width="1515" lsb="93"/>
     <mtx name="period" width="602" lsb="123"/>
     <mtx name="periodcentered" width="628" lsb="139"/>
@@ -291,7 +291,7 @@
     <mtx name="ring" width="680" lsb="119"/>
     <mtx name="s" width="1053" lsb="50"/>
     <mtx name="section" width="1291" lsb="92"/>
-    <mtx name="semicolon" width="551" lsb="59"/>
+    <mtx name="semicolon" width="551" lsb="60"/>
     <mtx name="seven" width="1178" lsb="58"/>
     <mtx name="seven.frac" width="764" lsb="50"/>
     <mtx name="seven.smcp" width="1067" lsb="46"/>
@@ -299,7 +299,7 @@
     <mtx name="seven.tnum" width="1070" lsb="0"/>
     <mtx name="six" width="1178" lsb="95"/>
     <mtx name="six.frac" width="764" lsb="68"/>
-    <mtx name="six.smcp" width="1067" lsb="75"/>
+    <mtx name="six.smcp" width="1067" lsb="74"/>
     <mtx name="six.sup" width="764" lsb="68"/>
     <mtx name="six.tnum" width="1178" lsb="89"/>
     <mtx name="slash" width="754" lsb="-17"/>
@@ -307,24 +307,24 @@
     <mtx name="st" width="1749" lsb="50"/>
     <mtx name="sterling" width="1221" lsb="99"/>
     <mtx name="sterling.smcp" width="1183" lsb="66"/>
-    <mtx name="t" width="695" lsb="10"/>
+    <mtx name="t" width="695" lsb="11"/>
     <mtx name="thorn" width="1159" lsb="108"/>
     <mtx name="three" width="1178" lsb="59"/>
     <mtx name="three.smcp" width="1067" lsb="42"/>
     <mtx name="three.sup" width="764" lsb="46"/>
     <mtx name="three.tnum" width="1111" lsb="0"/>
-    <mtx name="tilde" width="986" lsb="116"/>
+    <mtx name="tilde" width="986" lsb="115"/>
     <mtx name="tildecomb" width="0" lsb="-932"/>
     <mtx name="two" width="1178" lsb="67"/>
     <mtx name="two.smcp" width="1067" lsb="53"/>
     <mtx name="two.sup" width="764" lsb="54"/>
     <mtx name="two.tnum" width="1154" lsb="0"/>
     <mtx name="u" width="1149" lsb="100"/>
-    <mtx name="uacute" width="1149" lsb="101"/>
+    <mtx name="uacute" width="1149" lsb="100"/>
     <mtx name="ucircumflex" width="1149" lsb="100"/>
     <mtx name="udieresis" width="1149" lsb="100"/>
     <mtx name="ugrave" width="1149" lsb="100"/>
-    <mtx name="underscore" width="912" lsb="0"/>
+    <mtx name="underscore" width="912" lsb="1"/>
     <mtx name="uni00AD" width="600" lsb="121"/>
     <mtx name="uni00B2" width="764" lsb="54"/>
     <mtx name="uni00B3" width="764" lsb="46"/>
@@ -346,7 +346,6 @@
     <mtx name="uni05BF" width="0" lsb="220"/>
     <mtx name="uni05C1" width="0" lsb="1320"/>
     <mtx name="uni05C2" width="0" lsb="183"/>
-    <mtx name="uni05C7" width="0" lsb="422"/>
     <mtx name="uni05D0" width="1376" lsb="107"/>
     <mtx name="uni05D1" width="1114" lsb="52"/>
     <mtx name="uni05D2" width="909" lsb="12"/>
@@ -359,18 +358,18 @@
     <mtx name="uni05D8" width="1308" lsb="162"/>
     <mtx name="uni05D9" width="704" lsb="50"/>
     <mtx name="uni05DA" width="1069" lsb="68"/>
-    <mtx name="uni05DB" width="1132" lsb="64"/>
+    <mtx name="uni05DB" width="1132" lsb="63"/>
     <mtx name="uni05DC" width="1115" lsb="64"/>
     <mtx name="uni05DD" width="1349" lsb="162"/>
     <mtx name="uni05DE" width="1362" lsb="104"/>
     <mtx name="uni05DF" width="654" lsb="72"/>
     <mtx name="uni05E0" width="819" lsb="59"/>
     <mtx name="uni05E1" width="1325" lsb="57"/>
-    <mtx name="uni05E2" width="1283" lsb="60"/>
+    <mtx name="uni05E2" width="1283" lsb="59"/>
     <mtx name="uni05E3" width="1284" lsb="131"/>
     <mtx name="uni05E4" width="1359" lsb="131"/>
     <mtx name="uni05E5" width="1187" lsb="28"/>
-    <mtx name="uni05E6" width="1206" lsb="29"/>
+    <mtx name="uni05E6" width="1206" lsb="28"/>
     <mtx name="uni05E7" width="1337" lsb="162"/>
     <mtx name="uni05E8" width="1018" lsb="34"/>
     <mtx name="uni05E8.001" width="1048" lsb="87"/>
@@ -378,17 +377,17 @@
     <mtx name="uni05E8.003" width="1048" lsb="87"/>
     <mtx name="uni05E8.004" width="1048" lsb="87"/>
     <mtx name="uni05E9" width="1774" lsb="162"/>
-    <mtx name="uni05EA" width="1323" lsb="9"/>
+    <mtx name="uni05EA" width="1323" lsb="10"/>
     <mtx name="uni05F0" width="1316" lsb="75"/>
     <mtx name="uni05F1" width="1362" lsb="75"/>
-    <mtx name="uni05F2" width="1409" lsb="50"/>
+    <mtx name="uni05F2" width="1408" lsb="50"/>
     <mtx name="uni05F3" width="464" lsb="18"/>
     <mtx name="uni05F4" width="935" lsb="44"/>
-    <mtx name="uni1E9E" width="1399" lsb="87"/>
+    <mtx name="uni1E9E" width="1399" lsb="86"/>
     <mtx name="uni1E9E.smcp" width="1137" lsb="94"/>
     <mtx name="uni200C" width="0" lsb="-684"/>
-    <mtx name="uni200D" width="0" lsb="-904"/>
-    <mtx name="uni200E" width="0" lsb="-888"/>
+    <mtx name="uni200D" width="0" lsb="-903"/>
+    <mtx name="uni200E" width="0" lsb="-887"/>
     <mtx name="uni200F" width="0" lsb="-1010"/>
     <mtx name="uni2070" width="764" lsb="70"/>
     <mtx name="uni2074" width="764" lsb="53"/>
@@ -407,7 +406,8 @@
     <mtx name="uni2087" width="764" lsb="50"/>
     <mtx name="uni2088" width="764" lsb="70"/>
     <mtx name="uni2089" width="764" lsb="66"/>
-    <mtx name="uniFB1F" width="1409" lsb="50"/>
+    <mtx name="uni20AA" width="1926" lsb="132"/>
+    <mtx name="uniFB1F" width="1408" lsb="50"/>
     <mtx name="uniFB20" width="1314" lsb="59"/>
     <mtx name="uniFB21" width="1884" lsb="107"/>
     <mtx name="uniFB22" width="1440" lsb="59"/>
@@ -416,7 +416,7 @@
     <mtx name="uniFB25" width="1458" lsb="64"/>
     <mtx name="uniFB26" width="1822" lsb="151"/>
     <mtx name="uniFB27" width="1388" lsb="34"/>
-    <mtx name="uniFB28" width="1819" lsb="9"/>
+    <mtx name="uniFB28" width="1819" lsb="10"/>
     <mtx name="uniFB29" width="1104" lsb="52"/>
     <mtx name="uniFB2A" width="1774" lsb="162"/>
     <mtx name="uniFB2B" width="1774" lsb="162"/>
@@ -432,33 +432,33 @@
     <mtx name="uniFB35" width="658" lsb="-78"/>
     <mtx name="uniFB36" width="796" lsb="67"/>
     <mtx name="uniFB38" width="1308" lsb="162"/>
-    <mtx name="uniFB39" width="704" lsb="-49"/>
-    <mtx name="uniFB3A" width="1069" lsb="67"/>
-    <mtx name="uniFB3B" width="1132" lsb="64"/>
+    <mtx name="uniFB39" width="704" lsb="-47"/>
+    <mtx name="uniFB3A" width="1069" lsb="68"/>
+    <mtx name="uniFB3B" width="1132" lsb="63"/>
     <mtx name="uniFB3C" width="1115" lsb="64"/>
     <mtx name="uniFB3E" width="1362" lsb="104"/>
-    <mtx name="uniFB40" width="819" lsb="34"/>
+    <mtx name="uniFB40" width="819" lsb="35"/>
     <mtx name="uniFB41" width="1325" lsb="57"/>
     <mtx name="uniFB43" width="1284" lsb="131"/>
-    <mtx name="uniFB44" width="1359" lsb="130"/>
-    <mtx name="uniFB46" width="1206" lsb="29"/>
+    <mtx name="uniFB44" width="1359" lsb="131"/>
+    <mtx name="uniFB46" width="1206" lsb="28"/>
     <mtx name="uniFB47" width="1337" lsb="162"/>
     <mtx name="uniFB48" width="1018" lsb="34"/>
     <mtx name="uniFB49" width="1774" lsb="162"/>
-    <mtx name="uniFB4A" width="1323" lsb="9"/>
+    <mtx name="uniFB4A" width="1323" lsb="10"/>
     <mtx name="uniFB4B" width="658" lsb="75"/>
     <mtx name="uniFB4C" width="1114" lsb="52"/>
-    <mtx name="uniFB4D" width="1132" lsb="64"/>
-    <mtx name="uniFB4E" width="1359" lsb="130"/>
+    <mtx name="uniFB4D" width="1132" lsb="63"/>
+    <mtx name="uniFB4E" width="1359" lsb="131"/>
     <mtx name="uniFB4F" width="1267" lsb="64"/>
     <mtx name="v" width="1042" lsb="10"/>
     <mtx name="w" width="1501" lsb="26"/>
-    <mtx name="x" width="1046" lsb="19"/>
-    <mtx name="y" width="1037" lsb="1"/>
+    <mtx name="x" width="1046" lsb="18"/>
+    <mtx name="y" width="1037" lsb="2"/>
     <mtx name="yacute" width="1037" lsb="2"/>
-    <mtx name="ydieresis" width="1037" lsb="1"/>
-    <mtx name="yen" width="1101" lsb="10"/>
-    <mtx name="yen.smcp" width="937" lsb="5"/>
+    <mtx name="ydieresis" width="1037" lsb="2"/>
+    <mtx name="yen" width="1101" lsb="11"/>
+    <mtx name="yen.smcp" width="937" lsb="6"/>
     <mtx name="z" width="1046" lsb="71"/>
     <mtx name="zero" width="1178" lsb="92"/>
     <mtx name="zero.frac" width="764" lsb="70"/>

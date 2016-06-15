@@ -18,7 +18,7 @@
       Heebo Medium
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 2.002; ttfautohint (v1.5.14-ce02) -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -w G -W -c -X ""
+      Version 2.002
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Heebo-Medium
@@ -57,7 +57,7 @@
       Heebo-Medium
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.002; ttfautohint (v1.5.14-ce02) -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -w G -W -c -X ""
+      Version 2.002
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Heebo-Medium

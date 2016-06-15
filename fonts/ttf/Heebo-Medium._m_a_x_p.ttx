@@ -4,19 +4,19 @@
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="464"/>
-    <maxPoints value="89"/>
+    <numGlyphs value="463"/>
+    <maxPoints value="87"/>
     <maxContours value="10"/>
-    <maxCompositePoints value="75"/>
-    <maxCompositeContours value="5"/>
+    <maxCompositePoints value="74"/>
+    <maxCompositeContours value="4"/>
     <maxZones value="2"/>
-    <maxTwilightPoints value="86"/>
-    <maxStorage value="104"/>
+    <maxTwilightPoints value="34"/>
+    <maxStorage value="51"/>
     <maxFunctionDefs value="139"/>
     <maxInstructionDefs value="0"/>
-    <maxStackElements value="264"/>
-    <maxSizeOfInstructions value="3422"/>
-    <maxComponentElements value="4"/>
+    <maxStackElements value="132"/>
+    <maxSizeOfInstructions value="3350"/>
+    <maxComponentElements value="3"/>
     <maxComponentDepth value="1"/>
   </maxp>
 
