@@ -4,6 +4,7 @@
   <hmtx>
     <mtx name=".notdef" width="1351" lsb="251"/>
     <mtx name=".null" width="0" lsb="0"/>
+    <mtx name=".ttfautohint" width="811" lsb="0"/>
     <mtx name="A" width="1223" lsb="33"/>
     <mtx name="A.smcp" width="1058" lsb="28"/>
     <mtx name="AE" width="1816" lsb="50"/>

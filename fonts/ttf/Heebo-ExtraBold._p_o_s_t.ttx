@@ -280,6 +280,7 @@
       <psName name="longst"/>
       <psName name="st"/>
       <psName name="crossbar"/>
+      <psName name=".ttfautohint"/>
     </extraNames>
   </post>
 

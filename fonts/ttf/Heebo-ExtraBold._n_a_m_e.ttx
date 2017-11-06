@@ -18,7 +18,7 @@
       Heebo ExtraBold
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 2.002
+      Version 2.002; ttfautohint (v1.7) -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -w G -W -c -X ""
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Heebo-ExtraBold
@@ -54,10 +54,10 @@
       2.002;UKWN;Heebo-ExtraBold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      Heebo-ExtraBold
+      Heebo ExtraBold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 2.002
+      Version 2.002; ttfautohint (v1.7) -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -w G -W -c -X ""
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Heebo-ExtraBold

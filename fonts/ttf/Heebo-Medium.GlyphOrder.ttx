@@ -466,6 +466,7 @@
     <GlyphID id="460" name="longst"/>
     <GlyphID id="461" name="st"/>
     <GlyphID id="462" name="crossbar"/>
+    <GlyphID id="463" name=".ttfautohint"/>
   </GlyphOrder>
 
 </ttFont>
