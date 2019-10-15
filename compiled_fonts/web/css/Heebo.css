@@ -69,11 +69,11 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: local('Heebo'), local('Heebo-Extra-Bold'),
+    src: local('Heebo'), local('Heebo-ExtraBold'),
     url('../fonts/Heebo-ExtraBold.woff2') format('woff2'), /* Super Modern Browsers */
     url('../fonts/Heebo-ExtraBold.woff') format('woff'), /* Modern Browsers */
     url('../fonts/Heebo-ExtraBold.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('../fonts/Heebo-ExtraBold.svg#Heebo-Extra-Bold') format('svg'); /* Legacy iOS */
+    url('../fonts/Heebo-ExtraBold.svg#Heebo-ExtraBold') format('svg'); /* Legacy iOS */
     unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;/* Hebrew */
 }
 
