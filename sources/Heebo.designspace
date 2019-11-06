@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+      <map input="100" output="100"/>
+      <map input="300" output="235"/>
+      <map input="400" output="373"/>
+      <map input="500" output="520"/>
+      <map input="700" output="650"/>
+      <map input="800" output="675"/>
+      <map input="900" output="790"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Heebo-Thin.ufo" name="Heebo Thin" familyname="Heebo" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Heebo-Regular.ufo" name="Heebo Regular" familyname="Heebo" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="373"/>
+      </location>
+    </source>
+    <source filename="Heebo-DefaultOld.ufo" name="Heebo Default_Old" familyname="Heebo" stylename="Default_Old">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Heebo-Black.ufo" name="Heebo Black" familyname="Heebo" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="790"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Heebo Thin" familyname="Heebo" stylename="Thin" filename="instance_ufos/Heebo-Thin.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>445B0B85-2678-4800-8A4D-B1A9856CF63B</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Thin</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Heebo Light" familyname="Heebo" stylename="Light" filename="instance_ufos/Heebo-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="235"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>275CACE8-FD52-4067-B7BC-43A450B7EDC9</key>
+            <real>0.49451</real>
+            <key>445B0B85-2678-4800-8A4D-B1A9856CF63B</key>
+            <real>0.50549</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Heebo Regular" familyname="Heebo" stylename="Regular" filename="instance_ufos/Heebo-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="373"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>275CACE8-FD52-4067-B7BC-43A450B7EDC9</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Heebo Medium" familyname="Heebo" stylename="Medium" filename="instance_ufos/Heebo-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="520"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>20EE6398-45C7-446F-8F4E-C33CF1AD7937</key>
+            <real>0.30769</real>
+            <key>3A1161A8-2FC1-4350-92D1-D5E808DF9456</key>
+            <real>0.69231</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Heebo Bold" familyname="Heebo" stylename="Bold" filename="instance_ufos/Heebo-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="650"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>20EE6398-45C7-446F-8F4E-C33CF1AD7937</key>
+            <real>0.64103</real>
+            <key>3A1161A8-2FC1-4350-92D1-D5E808DF9456</key>
+            <real>0.35897</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Heebo ExtraBold" familyname="Heebo" stylename="ExtraBold" filename="instance_ufos/Heebo-ExtraBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="675"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>20EE6398-45C7-446F-8F4E-C33CF1AD7937</key>
+            <real>0.70513</real>
+            <key>3A1161A8-2FC1-4350-92D1-D5E808DF9456</key>
+            <real>0.29487</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Heebo Black" familyname="Heebo" stylename="Black" filename="instance_ufos/Heebo-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="790"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>20EE6398-45C7-446F-8F4E-C33CF1AD7937</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.fontlab.v2.tth</key>
+      <dict>
+        <key>stems</key>
+        <dict>
+          <key>X: 108</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>0</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>14</key>
+              <integer>2</integer>
+              <key>24</key>
+              <integer>3</integer>
+              <key>33</key>
+              <integer>4</integer>
+              <key>42</key>
+              <integer>5</integer>
+              <key>51</key>
+              <integer>6</integer>
+            </dict>
+            <key>width</key>
+            <integer>216</integer>
+          </dict>
+          <key>Y: 104</key>
+          <dict>
+            <key>horizontal</key>
+            <integer>1</integer>
+            <key>round</key>
+            <dict>
+              <key>0</key>
+              <integer>1</integer>
+              <key>15</key>
+              <integer>2</integer>
+              <key>25</key>
+              <integer>3</integer>
+              <key>34</key>
+              <integer>4</integer>
+              <key>44</key>
+              <integer>5</integer>
+              <key>53</key>
+              <integer>6</integer>
+            </dict>
+            <key>width</key>
+            <integer>208</integer>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

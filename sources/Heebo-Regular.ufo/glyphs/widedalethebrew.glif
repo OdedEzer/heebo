@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="widedalethebrew" format="2">
+  <advance width="1346.91"/>
+  <unicode hex="FB22"/>
+  <anchor x="954" y="0" name="bottom"/>
+  <anchor x="514" y="603" name="center"/>
+  <anchor x="648" y="1178" name="top"/>
+  <anchor x="16" y="1178" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="60" y="1178" type="line"/>
+      <point x="60" y="1029" type="line"/>
+      <point x="860" y="1029" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="1045" y="0" type="line"/>
+      <point x="1045" y="1017" type="line"/>
+      <point x="1283" y="1039" type="line"/>
+      <point x="1283" y="1178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dalethebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dalethebrew</string>
+    </dict>
+  </lib>
+</glyph>

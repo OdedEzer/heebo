@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="1131.96"/>
+  <unicode hex="0046"/>
+  <anchor x="531" y="10" name="bottom"/>
+  <anchor x="1132" y="-407" name="bottom_dd"/>
+  <anchor x="333" y="337" name="cross"/>
+  <anchor x="619" y="1612" name="top"/>
+  <anchor x="1132" y="1612" name="top0315"/>
+  <anchor x="1132" y="1600" name="top_dd"/>
+  <outline>
+    <contour>
+      <point x="363" y="0" type="line"/>
+      <point x="363" y="1456" type="line"/>
+      <point x="169" y="1456" type="line"/>
+      <point x="169" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="972" y="644" type="line"/>
+      <point x="972" y="800" type="line"/>
+      <point x="321" y="800" type="line"/>
+      <point x="321" y="644" type="line"/>
+    </contour>
+    <contour>
+      <point x="1071" y="1299" type="line"/>
+      <point x="1071" y="1456" type="line"/>
+      <point x="321" y="1456" type="line"/>
+      <point x="321" y="1299" type="line"/>
+    </contour>
+  </outline>
+</glyph>

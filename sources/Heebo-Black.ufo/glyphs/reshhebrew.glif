@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reshhebrew" format="2">
+  <advance width="1025.25"/>
+  <unicode hex="05E8"/>
+  <anchor x="704" y="0" name="bottom"/>
+  <anchor x="256" y="603" name="center"/>
+  <anchor x="468" y="1210" name="top"/>
+  <anchor x="-66" y="1210" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="523" y="0" type="line"/>
+      <point x="902" y="0" type="line"/>
+      <point x="902" y="760" type="line" smooth="yes"/>
+      <point x="902" y="1042"/>
+      <point x="714" y="1210"/>
+      <point x="399" y="1210" type="curve" smooth="yes"/>
+      <point x="23" y="1210" type="line"/>
+      <point x="23" y="918" type="line"/>
+      <point x="367" y="918" type="line" smooth="yes"/>
+      <point x="471" y="918"/>
+      <point x="523" y="871"/>
+      <point x="523" y="777" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

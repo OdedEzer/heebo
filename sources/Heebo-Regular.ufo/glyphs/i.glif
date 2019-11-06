@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="498.44"/>
+  <unicode hex="0069"/>
+  <anchor x="249" y="10" name="bottom"/>
+  <anchor x="498" y="-407" name="bottom_dd"/>
+  <anchor x="327" y="0" name="ogonek"/>
+  <anchor x="278" y="654" name="rhotichook"/>
+  <anchor x="252" y="1600" name="top"/>
+  <anchor x="498" y="1600" name="top0315"/>
+  <anchor x="498" y="1600" name="top_dd"/>
+  <outline>
+    <contour>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="1082" type="line"/>
+      <point x="156" y="1082" type="line"/>
+      <point x="156" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="1429"/>
+      <point x="142" y="1370" type="curve" smooth="yes"/>
+      <point x="142" y="1312"/>
+      <point x="179" y="1266"/>
+      <point x="251" y="1266" type="curve"/>
+      <point x="323" y="1266"/>
+      <point x="362" y="1312"/>
+      <point x="362" y="1370" type="curve"/>
+      <point x="362" y="1429"/>
+      <point x="323" y="1476"/>
+      <point x="251" y="1476" type="curve"/>
+      <point x="179" y="1476"/>
+    </contour>
+  </outline>
+</glyph>

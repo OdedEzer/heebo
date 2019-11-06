@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="1230.28"/>
+  <unicode hex="0059"/>
+  <anchor x="615" y="1" name="bottom"/>
+  <anchor x="1230" y="-407" name="bottom_dd"/>
+  <anchor x="614" y="593" name="cross"/>
+  <anchor x="-64" y="1454" name="tonos"/>
+  <anchor x="618" y="1600" name="top"/>
+  <anchor x="1230" y="1600" name="top0315"/>
+  <anchor x="1230" y="1600" name="top_dd"/>
+  <outline>
+    <contour>
+      <point x="614" y="724" type="line"/>
+      <point x="237" y="1456" type="line"/>
+      <point x="15" y="1456" type="line"/>
+      <point x="516" y="544" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="711" y="0" type="line"/>
+      <point x="711" y="544" type="line"/>
+      <point x="1212" y="1456" type="line"/>
+      <point x="992" y="1456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

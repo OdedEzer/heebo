@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vavhebrew" format="2">
+  <advance width="686.425"/>
+  <unicode hex="05D5"/>
+  <anchor x="345" y="0" name="bottom"/>
+  <anchor x="1" y="603" name="center"/>
+  <anchor x="312" y="1210" name="top"/>
+  <anchor x="303" y="1210" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="1210" type="line"/>
+      <point x="64" y="1210" type="line"/>
+      <point x="64" y="918" type="line"/>
+      <point x="153" y="918" type="line"/>
+    </contour>
+  </outline>
+</glyph>

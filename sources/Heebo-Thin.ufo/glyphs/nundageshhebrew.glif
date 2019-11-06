@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nundageshhebrew" format="2">
+  <advance width="656"/>
+  <unicode hex="FB40"/>
+  <outline>
+    <component base="nunhebrew"/>
+    <component base="dageshhebrew" xOffset="-110" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>nunhebrew</string>
+    </dict>
+  </lib>
+</glyph>

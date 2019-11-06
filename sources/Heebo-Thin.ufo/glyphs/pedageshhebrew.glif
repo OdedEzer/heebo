@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pedageshhebrew" format="2">
+  <advance width="1165"/>
+  <unicode hex="FB44"/>
+  <outline>
+    <component base="pehebrew"/>
+    <component base="dageshhebrew" xOffset="280" yOffset="207"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pehebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>pehebrew</string>
+    </dict>
+  </lib>
+</glyph>

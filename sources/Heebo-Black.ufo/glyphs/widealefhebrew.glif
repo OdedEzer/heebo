@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="widealefhebrew" format="2">
+  <advance width="1920.675"/>
+  <unicode hex="FB21"/>
+  <anchor x="926" y="0" name="bottom"/>
+  <anchor x="784" y="213" name="center"/>
+  <anchor x="974" y="1210" name="top"/>
+  <anchor x="33" y="1210" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="1316" y="0" type="line"/>
+      <point x="1827" y="0" type="line"/>
+      <point x="584" y="1210" type="line"/>
+      <point x="87" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="561" type="line" smooth="yes"/>
+      <point x="546" y="716"/>
+      <point x="567" y="793"/>
+      <point x="612" y="888" type="curve"/>
+      <point x="524" y="1013" type="line"/>
+      <point x="288" y="942"/>
+      <point x="181" y="801"/>
+      <point x="181" y="560" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1387" y="247" type="line"/>
+      <point x="1856" y="1210" type="line"/>
+      <point x="1434" y="1210" type="line"/>
+      <point x="1143" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>alefhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefhebrew</string>
+    </dict>
+  </lib>
+</glyph>

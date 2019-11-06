@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefhebrew" format="2">
+  <advance width="1323"/>
+  <unicode hex="05D0"/>
+  <anchor x="685" y="0" name="bottom"/>
+  <anchor x="590" y="216" name="center"/>
+  <anchor x="686" y="1180" name="top"/>
+  <anchor x="40" y="1180" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="1002" y="0" type="line"/>
+      <point x="1223" y="0" type="line"/>
+      <point x="372" y="1180" type="line"/>
+      <point x="150" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="385" y="498" type="line" smooth="yes"/>
+      <point x="385" y="618"/>
+      <point x="429" y="696"/>
+      <point x="523" y="739" type="curve"/>
+      <point x="446" y="841" type="line"/>
+      <point x="272" y="778"/>
+      <point x="193" y="647"/>
+      <point x="193" y="424" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1229" y="1180" type="line"/>
+      <point x="1006" y="1180" type="line"/>
+      <point x="693" y="618" type="line"/>
+      <point x="824" y="465" type="line"/>
+    </contour>
+  </outline>
+</glyph>

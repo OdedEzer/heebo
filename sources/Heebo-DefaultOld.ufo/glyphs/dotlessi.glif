@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="518"/>
+  <unicode hex="0131"/>
+  <anchor x="253" y="10" name="bottom"/>
+  <anchor x="284" y="654" name="rhotichook"/>
+  <anchor x="257" y="1290" name="top"/>
+  <anchor x="518" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="1082" type="line"/>
+      <point x="153" y="1082" type="line"/>
+      <point x="153" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

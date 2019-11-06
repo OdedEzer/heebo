@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tethebrew" format="2">
+  <advance width="1263.43"/>
+  <unicode hex="05D8"/>
+  <anchor x="652" y="0" name="bottom"/>
+  <anchor x="652" y="603" name="center"/>
+  <anchor x="637" y="1173" name="top"/>
+  <anchor x="43" y="1178" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="652" y="-22" type="curve" smooth="yes"/>
+      <point x="934" y="-22"/>
+      <point x="1121" y="167"/>
+      <point x="1121" y="451" type="curve" smooth="yes"/>
+      <point x="1121" y="848" type="line" smooth="yes"/>
+      <point x="1121" y="1059"/>
+      <point x="1009" y="1189"/>
+      <point x="826" y="1189" type="curve" smooth="yes"/>
+      <point x="750" y="1189"/>
+      <point x="665" y="1162"/>
+      <point x="599" y="1120" type="curve"/>
+      <point x="628" y="996" type="line"/>
+      <point x="676" y="1019"/>
+      <point x="726" y="1034"/>
+      <point x="772" y="1034" type="curve" smooth="yes"/>
+      <point x="876" y="1034"/>
+      <point x="935" y="961"/>
+      <point x="935" y="833" type="curve" smooth="yes"/>
+      <point x="935" y="438" type="line" smooth="yes"/>
+      <point x="935" y="251"/>
+      <point x="821" y="126"/>
+      <point x="651" y="126" type="curve" smooth="yes"/>
+      <point x="480" y="126"/>
+      <point x="366" y="251"/>
+      <point x="366" y="438" type="curve" smooth="yes"/>
+      <point x="366" y="1178" type="line"/>
+      <point x="181" y="1178" type="line"/>
+      <point x="181" y="451" type="line"/>
+      <point x="181" y="167"/>
+      <point x="370" y="-22"/>
+    </contour>
+  </outline>
+</glyph>

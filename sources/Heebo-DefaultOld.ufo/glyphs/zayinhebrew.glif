@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zayinhebrew" format="2">
+  <advance width="731"/>
+  <unicode hex="05D6"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="573" y="603" name="center"/>
+  <anchor x="357" y="1180" name="top"/>
+  <anchor x="2" y="1180" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="353" y="1022" type="line"/>
+      <point x="655" y="1022" type="line"/>
+      <point x="656" y="1180" type="line"/>
+      <point x="75" y="1180" type="line"/>
+      <point x="75" y="1028" type="line"/>
+      <point x="157" y="1014" type="line"/>
+    </contour>
+  </outline>
+</glyph>

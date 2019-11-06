@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shinhebrew" format="2">
+  <advance width="1642"/>
+  <unicode hex="05E9"/>
+  <anchor x="806" y="0" name="bottom"/>
+  <anchor x="1092" y="603" name="center"/>
+  <anchor x="816" y="1180" name="top"/>
+  <anchor x="27" y="1180" name="topleft"/>
+  <anchor x="22" y="1180" name="topright"/>
+  <outline>
+    <contour>
+      <point x="372" y="1180" type="line"/>
+      <point x="180" y="1180" type="line"/>
+      <point x="180" y="109" type="line"/>
+      <point x="371" y="18"/>
+      <point x="587" y="-29"/>
+      <point x="782" y="-29" type="curve" smooth="yes"/>
+      <point x="1152" y="-29"/>
+      <point x="1462" y="139"/>
+      <point x="1462" y="487" type="curve" smooth="yes"/>
+      <point x="1462" y="1180" type="line"/>
+      <point x="1270" y="1180" type="line"/>
+      <point x="1270" y="506" type="line" smooth="yes"/>
+      <point x="1270" y="249"/>
+      <point x="1053" y="130"/>
+      <point x="773" y="130" type="curve" smooth="yes"/>
+      <point x="645" y="130"/>
+      <point x="498" y="163"/>
+      <point x="372" y="217" type="curve"/>
+    </contour>
+    <contour>
+      <point x="649" y="332" type="curve"/>
+      <point x="813" y="326" type="line"/>
+      <point x="882" y="397"/>
+      <point x="914" y="499"/>
+      <point x="914" y="634" type="curve" smooth="yes"/>
+      <point x="914" y="1180" type="line"/>
+      <point x="721" y="1180" type="line"/>
+      <point x="721" y="598" type="line" smooth="yes"/>
+      <point x="721" y="479"/>
+      <point x="697" y="384"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.smcp" format="2">
+  <advance width="1052"/>
+  <guideline y="721"/>
+  <guideline y="444"/>
+  <anchor x="526" y="6" name="bottom"/>
+  <anchor x="1052" y="-407" name="bottom_dd"/>
+  <anchor x="524" y="467" name="cross"/>
+  <anchor x="-61" y="1163" name="tonos"/>
+  <anchor x="523" y="1320" name="top"/>
+  <anchor x="1052" y="1320" name="top0315"/>
+  <anchor x="1052" y="1600" name="top_dd"/>
+  <outline>
+    <contour>
+      <point x="955" y="1165" type="line"/>
+      <point x="542" y="510" type="line"/>
+      <point x="502" y="436" type="line"/>
+      <point x="551" y="436" type="line"/>
+      <point x="1020" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="509" type="line"/>
+      <point x="95" y="1165" type="line"/>
+      <point x="30" y="1165" type="line"/>
+      <point x="499" y="436" type="line"/>
+      <point x="545" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="0" type="line"/>
+      <point x="552" y="472" type="line"/>
+      <point x="497" y="472" type="line"/>
+      <point x="497" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

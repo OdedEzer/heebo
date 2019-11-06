@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hatafqamatshebrew" format="2">
+  <unicode hex="05B3"/>
+  <anchor x="651" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="493" y="-650" type="curve" smooth="yes"/>
+      <point x="559" y="-650"/>
+      <point x="606" y="-607"/>
+      <point x="606" y="-550" type="curve" smooth="yes"/>
+      <point x="606" y="-490"/>
+      <point x="550" y="-476"/>
+      <point x="538" y="-328" type="curve"/>
+      <point x="755" y="-328" type="line"/>
+      <point x="755" y="-176" type="line"/>
+      <point x="234" y="-176" type="line"/>
+      <point x="234" y="-328" type="line"/>
+      <point x="448" y="-328" type="line"/>
+      <point x="438" y="-476"/>
+      <point x="381" y="-490"/>
+      <point x="381" y="-550" type="curve" smooth="yes"/>
+      <point x="381" y="-608"/>
+      <point x="430" y="-650"/>
+    </contour>
+    <contour>
+      <point x="960" y="-647" type="curve" smooth="yes"/>
+      <point x="1025" y="-647"/>
+      <point x="1072" y="-604"/>
+      <point x="1072" y="-547" type="curve" smooth="yes"/>
+      <point x="1072" y="-489"/>
+      <point x="1025" y="-447"/>
+      <point x="960" y="-447" type="curve" smooth="yes"/>
+      <point x="895" y="-447"/>
+      <point x="846" y="-489"/>
+      <point x="846" y="-547" type="curve" smooth="yes"/>
+      <point x="846" y="-604"/>
+      <point x="895" y="-647"/>
+    </contour>
+    <contour>
+      <point x="960" y="-353" type="curve" smooth="yes"/>
+      <point x="1025" y="-353"/>
+      <point x="1072" y="-311"/>
+      <point x="1072" y="-253" type="curve" smooth="yes"/>
+      <point x="1072" y="-195"/>
+      <point x="1025" y="-153"/>
+      <point x="960" y="-153" type="curve" smooth="yes"/>
+      <point x="894" y="-153"/>
+      <point x="846" y="-195"/>
+      <point x="846" y="-253" type="curve" smooth="yes"/>
+      <point x="846" y="-311"/>
+      <point x="895" y="-353"/>
+    </contour>
+  </outline>
+</glyph>

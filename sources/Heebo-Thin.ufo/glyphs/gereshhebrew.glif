@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gereshhebrew" format="2">
+  <advance width="223"/>
+  <unicode hex="05F3"/>
+  <outline>
+    <contour>
+      <point x="47" y="936" type="line"/>
+      <point x="110" y="1003"/>
+      <point x="153" y="1095"/>
+      <point x="153" y="1218" type="curve"/>
+      <point x="153" y="1400" type="line"/>
+      <point x="94" y="1400" type="line"/>
+      <point x="94" y="1216" type="line"/>
+      <point x="94" y="1113"/>
+      <point x="70" y="1046"/>
+      <point x="10" y="968" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
