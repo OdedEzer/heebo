@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="widehehebrew" format="2">
+  <advance width="1632"/>
+  <unicode hex="FB23"/>
+  <anchor x="801" y="0" name="bottom"/>
+  <anchor x="801" y="603" name="center"/>
+  <anchor x="787" y="1180" name="top"/>
+  <anchor x="2" y="1180" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="146" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="390" type="line" smooth="yes"/>
+      <point x="341" y="493"/>
+      <point x="356" y="589"/>
+      <point x="371" y="647" type="curve"/>
+      <point x="362" y="656" type="line"/>
+      <point x="185" y="631" type="line"/>
+      <point x="171" y="591"/>
+      <point x="146" y="515"/>
+      <point x="146" y="396" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1284" y="0" type="line"/>
+      <point x="1482" y="0" type="line"/>
+      <point x="1482" y="805" type="line" smooth="yes"/>
+      <point x="1482" y="1041"/>
+      <point x="1334" y="1180"/>
+      <point x="1084" y="1180" type="curve" smooth="yes"/>
+      <point x="147" y="1180" type="line"/>
+      <point x="147" y="1022" type="line"/>
+      <point x="1078" y="1022" type="line" smooth="yes"/>
+      <point x="1206" y="1022"/>
+      <point x="1284" y="945"/>
+      <point x="1284" y="819" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hehebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hehebrew</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tnum" format="2">
+  <advance width="1111"/>
+  <outline>
+    <component base="three.onum" xOffset="44"/>
+  </outline>
+</glyph>

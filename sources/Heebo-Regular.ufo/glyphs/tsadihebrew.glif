@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsadihebrew" format="2">
+  <advance width="1119.45"/>
+  <unicode hex="05E6"/>
+  <anchor x="559" y="0" name="bottom"/>
+  <anchor x="323" y="361" name="center"/>
+  <anchor x="552" y="1178" name="top"/>
+  <anchor x="17" y="1178" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="94" type="line"/>
+      <point x="626" y="637" type="line"/>
+      <point x="268" y="1178" type="line"/>
+      <point x="59" y="1178" type="line"/>
+      <point x="763" y="150" type="line"/>
+      <point x="130" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="489" type="line"/>
+      <point x="1052" y="1178" type="line"/>
+      <point x="843" y="1178" type="line"/>
+      <point x="545" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

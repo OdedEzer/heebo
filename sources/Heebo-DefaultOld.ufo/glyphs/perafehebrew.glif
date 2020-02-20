@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perafehebrew" format="2">
+  <advance width="1296"/>
+  <unicode hex="FB4E"/>
+  <outline>
+    <component base="pehebrew"/>
+    <component base="rafehebrew" xOffset="165"/>
+  </outline>
+</glyph>

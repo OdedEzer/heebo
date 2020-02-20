@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalethebrew" format="2">
+  <advance width="1066.91"/>
+  <unicode hex="05D3"/>
+  <anchor x="714" y="0" name="bottom"/>
+  <anchor x="322" y="603" name="center"/>
+  <anchor x="532" y="1178" name="top"/>
+  <anchor x="2" y="1178" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="60" y="1178" type="line"/>
+      <point x="60" y="1029" type="line"/>
+      <point x="620" y="1029" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="806" y="0" type="line"/>
+      <point x="806" y="1029" type="line"/>
+      <point x="1003" y="1029" type="line"/>
+      <point x="1003" y="1178" type="line"/>
+    </contour>
+  </outline>
+</glyph>

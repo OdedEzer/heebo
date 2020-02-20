@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>alefhebrew</key>
+    <string>alefhebrew.glif</string>
+    <key>ayinhebrew</key>
+    <string>ayinhebrew.glif</string>
+    <key>finalpehebrew</key>
+    <string>finalpehebrew.glif</string>
+    <key>finaltsadihebrew</key>
+    <string>finaltsadihebrew.glif</string>
+    <key>hethebrew</key>
+    <string>hethebrew.glif</string>
+    <key>lamedhebrew</key>
+    <string>lamedhebrew.glif</string>
+    <key>memhebrew</key>
+    <string>memhebrew.glif</string>
+    <key>pehebrew</key>
+    <string>pehebrew.glif</string>
+    <key>reshhebrew</key>
+    <string>reshhebrew.glif</string>
+    <key>reshhebrew.001</key>
+    <string>reshhebrew.001.glif</string>
+    <key>reshhebrew.002</key>
+    <string>reshhebrew.002.glif</string>
+    <key>reshhebrew.003</key>
+    <string>reshhebrew.003.glif</string>
+    <key>reshhebrew.004</key>
+    <string>reshhebrew.004.glif</string>
+    <key>samekhhebrew</key>
+    <string>samekhhebrew.glif</string>
+    <key>shinhebrew</key>
+    <string>shinhebrew.glif</string>
+    <key>tavhebrew</key>
+    <string>tavhebrew.glif</string>
+    <key>tsadihebrew</key>
+    <string>tsadihebrew.glif</string>
+    <key>widekafhebrew</key>
+    <string>widekafhebrew.glif</string>
+    <key>widereshhebrew</key>
+    <string>widereshhebrew.glif</string>
+  </dict>
+</plist>

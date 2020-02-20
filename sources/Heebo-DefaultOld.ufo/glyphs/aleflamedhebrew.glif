@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aleflamedhebrew" format="2">
+  <advance width="1202"/>
+  <unicode hex="FB4F"/>
+  <outline>
+    <contour>
+      <point x="865" y="0" type="line"/>
+      <point x="1084" y="0" type="line"/>
+      <point x="279" y="1133" type="line"/>
+      <point x="279" y="1498" type="line"/>
+      <point x="81" y="1498" type="line"/>
+      <point x="81" y="1099" type="line"/>
+    </contour>
+    <contour>
+      <point x="1108" y="1180" type="line"/>
+      <point x="885" y="1180" type="line"/>
+      <point x="572" y="618" type="line"/>
+      <point x="703" y="465" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lamedhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefhebrew</string>
+    </dict>
+  </lib>
+</glyph>

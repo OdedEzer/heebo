@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalmemhebrew" format="2">
+  <advance width="1229"/>
+  <unicode hex="05DD"/>
+  <anchor x="609" y="0" name="bottom"/>
+  <anchor x="609" y="603" name="center"/>
+  <anchor x="609" y="1157" name="top"/>
+  <anchor x="22" y="1157" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="1039" y="0" type="line"/>
+      <point x="1039" y="1157" type="line"/>
+      <point x="180" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="55" type="line"/>
+      <point x="239" y="1102" type="line"/>
+      <point x="980" y="1102" type="line"/>
+      <point x="980" y="55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

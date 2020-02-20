@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="widelamedhebrew" format="2">
+  <advance width="1397"/>
+  <unicode hex="FB25"/>
+  <anchor x="618" y="0" name="bottom"/>
+  <anchor x="504" y="603" name="center"/>
+  <anchor x="692" y="1157" name="top"/>
+  <anchor x="-2" y="1370" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="1238" y="1102" type="line"/>
+      <point x="1297" y="1157" type="line"/>
+      <point x="159" y="1157" type="line"/>
+      <point x="159" y="1536" type="line"/>
+      <point x="100" y="1536" type="line"/>
+      <point x="100" y="1102" type="line"/>
+    </contour>
+    <contour>
+      <point x="1297" y="1122" type="line"/>
+      <point x="1297" y="1157" type="line"/>
+      <point x="1248" y="1157" type="line"/>
+      <point x="577" y="0" type="line"/>
+      <point x="644" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lamedhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lamedhebrew</string>
+    </dict>
+  </lib>
+</glyph>

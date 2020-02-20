@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shinshindothebrew" format="2">
+  <advance width="1642"/>
+  <unicode hex="FB2A"/>
+  <outline>
+    <component base="shinhebrew"/>
+    <component base="shindothebrew" xOffset="22"/>
+  </outline>
+</glyph>

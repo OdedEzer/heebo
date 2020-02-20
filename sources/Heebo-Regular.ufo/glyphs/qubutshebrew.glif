@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qubutshebrew" format="2">
+  <unicode hex="05BB"/>
+  <anchor x="598" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="598" y="-316" type="curve" smooth="yes"/>
+      <point x="643" y="-316"/>
+      <point x="676" y="-284"/>
+      <point x="676" y="-243" type="curve" smooth="yes"/>
+      <point x="676" y="-201"/>
+      <point x="643" y="-170"/>
+      <point x="598" y="-170" type="curve" smooth="yes"/>
+      <point x="554" y="-170"/>
+      <point x="520" y="-201"/>
+      <point x="520" y="-243" type="curve" smooth="yes"/>
+      <point x="520" y="-281"/>
+      <point x="554" y="-316"/>
+    </contour>
+    <contour>
+      <point x="849" y="-687" type="curve" smooth="yes"/>
+      <point x="894" y="-687"/>
+      <point x="927" y="-655"/>
+      <point x="927" y="-614" type="curve" smooth="yes"/>
+      <point x="927" y="-572"/>
+      <point x="894" y="-540"/>
+      <point x="849" y="-540" type="curve" smooth="yes"/>
+      <point x="805" y="-540"/>
+      <point x="771" y="-572"/>
+      <point x="771" y="-614" type="curve" smooth="yes"/>
+      <point x="771" y="-652"/>
+      <point x="805" y="-687"/>
+    </contour>
+    <contour>
+      <point x="724" y="-501" type="curve" smooth="yes"/>
+      <point x="768" y="-501"/>
+      <point x="802" y="-470"/>
+      <point x="802" y="-429" type="curve" smooth="yes"/>
+      <point x="802" y="-388"/>
+      <point x="768" y="-355"/>
+      <point x="724" y="-355" type="curve" smooth="yes"/>
+      <point x="679" y="-355"/>
+      <point x="645" y="-387"/>
+      <point x="645" y="-429" type="curve" smooth="yes"/>
+      <point x="645" y="-467"/>
+      <point x="679" y="-501"/>
+    </contour>
+  </outline>
+</glyph>

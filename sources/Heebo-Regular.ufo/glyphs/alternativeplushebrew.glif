@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alternativeplushebrew" format="2">
+  <advance width="1128.25"/>
+  <unicode hex="FB29"/>
+  <outline>
+    <contour>
+      <point x="473" y="1206" type="line"/>
+      <point x="473" y="757" type="line"/>
+      <point x="63" y="757" type="line"/>
+      <point x="63" y="601" type="line"/>
+      <point x="1061" y="601" type="line"/>
+      <point x="1061" y="757" type="line"/>
+      <point x="641" y="757" type="line"/>
+      <point x="641" y="1206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

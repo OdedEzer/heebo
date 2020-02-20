@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="memdageshhebrew" format="2">
+  <advance width="1306"/>
+  <unicode hex="FB3E"/>
+  <outline>
+    <component base="memhebrew"/>
+    <component base="dageshhebrew" xOffset="374" yOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>memhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>memhebrew</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar.smcp" format="2">
+  <advance width="1056.47"/>
+  <outline>
+    <contour>
+      <point x="626" y="1091" type="line"/>
+      <point x="626" y="1395" type="line"/>
+      <point x="476" y="1395" type="line"/>
+      <point x="476" y="1091" type="line"/>
+    </contour>
+    <contour>
+      <point x="626" y="-237" type="line"/>
+      <point x="626" y="67" type="line"/>
+      <point x="476" y="67" type="line"/>
+      <point x="476" y="-237" type="line"/>
+    </contour>
+    <component base="S.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yodyodhebrew" format="2">
+  <advance width="1494.9"/>
+  <unicode hex="05F2"/>
+  <outline>
+    <component base="yodhebrew" xOffset="747"/>
+    <component base="yodhebrew"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

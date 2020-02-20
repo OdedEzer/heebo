@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maqafhebrew" format="2">
+  <advance width="628.075"/>
+  <unicode hex="05BE"/>
+  <outline>
+    <contour>
+      <point x="568" y="918" type="line"/>
+      <point x="568" y="1210" type="line"/>
+      <point x="60" y="1210" type="line"/>
+      <point x="60" y="918" type="line"/>
+    </contour>
+  </outline>
+</glyph>

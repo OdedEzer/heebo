@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.ss06" format="2">
+  <advance width="1427.69"/>
+  <outline>
+    <contour>
+      <point x="267" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="1005" y="0"/>
+      <point x="1298" y="273"/>
+      <point x="1298" y="706" type="curve"/>
+      <point x="1298" y="749" type="line"/>
+      <point x="1298" y="1182"/>
+      <point x="1001" y="1456"/>
+      <point x="612" y="1456" type="curve"/>
+      <point x="261" y="1456" type="line"/>
+      <point x="261" y="1299" type="line"/>
+      <point x="611" y="1299" type="line"/>
+      <point x="906" y="1299"/>
+      <point x="1102" y="1097"/>
+      <point x="1102" y="751" type="curve"/>
+      <point x="1102" y="706" type="line" smooth="yes"/>
+      <point x="1102" y="377"/>
+      <point x="912" y="156"/>
+      <point x="594" y="156" type="curve"/>
+      <point x="269" y="156" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="1456" type="line"/>
+      <point x="178" y="1456" type="line"/>
+      <point x="178" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

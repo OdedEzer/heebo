@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="1192"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="909" y="1480" type="line"/>
+      <point x="851" y="1480" type="line"/>
+      <point x="444" y="1480"/>
+      <point x="79" y="1208"/>
+      <point x="79" y="701" type="curve" smooth="yes"/>
+      <point x="79" y="575" type="line" smooth="yes"/>
+      <point x="79" y="187"/>
+      <point x="313" y="-20"/>
+      <point x="622" y="-20" type="curve" smooth="yes"/>
+      <point x="924" y="-20"/>
+      <point x="1139" y="197"/>
+      <point x="1139" y="483" type="curve" smooth="yes"/>
+      <point x="1139" y="773"/>
+      <point x="992" y="988"/>
+      <point x="727" y="988" type="curve" smooth="yes"/>
+      <point x="464" y="988"/>
+      <point x="329" y="767"/>
+      <point x="335" y="633" type="curve"/>
+      <point x="419" y="533" type="line"/>
+      <point x="418" y="608"/>
+      <point x="478" y="700"/>
+      <point x="600" y="700" type="curve" smooth="yes"/>
+      <point x="701" y="700"/>
+      <point x="778" y="626"/>
+      <point x="778" y="485" type="curve" smooth="yes"/>
+      <point x="778" y="362"/>
+      <point x="708" y="270"/>
+      <point x="612" y="270" type="curve" smooth="yes"/>
+      <point x="496" y="270"/>
+      <point x="440" y="345"/>
+      <point x="440" y="515" type="curve"/>
+      <point x="440" y="780" type="line" smooth="yes"/>
+      <point x="440" y="1069"/>
+      <point x="639" y="1185"/>
+      <point x="890" y="1185" type="curve" smooth="yes"/>
+      <point x="909" y="1185" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>322122547</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gimelhebrew.001" format="2">
+  <advance width="1015.175"/>
+  <anchor x="480" y="0" name="bottom"/>
+  <anchor x="201" y="603" name="center"/>
+  <anchor x="466" y="1210" name="top"/>
+  <anchor x="71" y="1210" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="149" y="-16" type="curve" smooth="yes"/>
+      <point x="320" y="-16"/>
+      <point x="455" y="111"/>
+      <point x="489" y="289" type="curve"/>
+      <point x="495" y="289" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="835" y="404" type="line" smooth="yes"/>
+      <point x="821" y="469"/>
+      <point x="814" y="537"/>
+      <point x="814" y="603" type="curve" smooth="yes"/>
+      <point x="814" y="1210" type="line"/>
+      <point x="182" y="1210" type="line"/>
+      <point x="182" y="918" type="line"/>
+      <point x="442" y="918" type="line"/>
+      <point x="442" y="468" type="line"/>
+      <point x="384" y="361"/>
+      <point x="298" y="320"/>
+      <point x="170" y="320" type="curve" smooth="yes"/>
+      <point x="135" y="320"/>
+      <point x="97" y="324"/>
+      <point x="57" y="330" type="curve"/>
+      <point x="57" y="-9" type="line"/>
+      <point x="86" y="-13"/>
+      <point x="119" y="-16"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rafehebrew" format="2">
+  <unicode hex="05BF"/>
+  <anchor x="526" y="1210" name="_top"/>
+  <outline>
+    <contour>
+      <point x="211" y="1372" type="line"/>
+      <point x="842" y="1372" type="line"/>
+      <point x="842" y="1557" type="line"/>
+      <point x="211" y="1557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

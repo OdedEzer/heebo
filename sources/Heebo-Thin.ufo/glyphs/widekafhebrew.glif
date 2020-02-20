@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="widekafhebrew" format="2">
+  <advance width="1573"/>
+  <unicode hex="FB24"/>
+  <anchor x="706" y="0" name="bottom"/>
+  <anchor x="706" y="603" name="center"/>
+  <anchor x="704" y="1157" name="top"/>
+  <anchor x="10" y="1157" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="713" y="-29" type="curve" smooth="yes"/>
+      <point x="1155" y="-29"/>
+      <point x="1383" y="121"/>
+      <point x="1383" y="417" type="curve"/>
+      <point x="1383" y="1157" type="line"/>
+      <point x="128" y="1157" type="line"/>
+      <point x="128" y="1102" type="line"/>
+      <point x="1324" y="1102" type="line"/>
+      <point x="1324" y="417" type="line" smooth="yes"/>
+      <point x="1324" y="158"/>
+      <point x="1116" y="27"/>
+      <point x="711" y="27" type="curve" smooth="yes"/>
+      <point x="545" y="27"/>
+      <point x="347" y="49"/>
+      <point x="117" y="93" type="curve"/>
+      <point x="106" y="38" type="line"/>
+      <point x="340" y="-7"/>
+      <point x="542" y="-29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kafhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kafhebrew</string>
+    </dict>
+  </lib>
+</glyph>

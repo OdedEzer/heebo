@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ayinaltonehebrew" format="2">
+  <advance width="1123"/>
+  <unicode hex="FB20"/>
+  <anchor x="507" y="0" name="bottom"/>
+  <anchor x="587" y="603" name="center"/>
+  <anchor x="546" y="1157" name="top"/>
+  <anchor x="1" y="1157" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="434" y="-37" type="curve" smooth="yes"/>
+      <point x="705" y="-37"/>
+      <point x="879" y="123"/>
+      <point x="894" y="416" type="curve" smooth="yes"/>
+      <point x="933" y="1157" type="line"/>
+      <point x="878" y="1157" type="line"/>
+      <point x="839" y="416" type="line" smooth="yes"/>
+      <point x="825" y="156"/>
+      <point x="672" y="15"/>
+      <point x="432" y="15" type="curve" smooth="yes"/>
+      <point x="333" y="15"/>
+      <point x="219" y="39"/>
+      <point x="94" y="89" type="curve"/>
+      <point x="70" y="40" type="line"/>
+      <point x="204" y="-12"/>
+      <point x="327" y="-37"/>
+    </contour>
+    <contour>
+      <point x="155" y="1157" type="line"/>
+      <point x="360" y="254" type="line" smooth="yes"/>
+      <point x="385" y="143"/>
+      <point x="406" y="88"/>
+      <point x="449" y="12" type="curve"/>
+      <point x="507" y="8" type="line"/>
+      <point x="467" y="78"/>
+      <point x="444" y="144"/>
+      <point x="417" y="264" type="curve" smooth="yes"/>
+      <point x="214" y="1157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ayinhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ayinhebrew</string>
+    </dict>
+  </lib>
+</glyph>

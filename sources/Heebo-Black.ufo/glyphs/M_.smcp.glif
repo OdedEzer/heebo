@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.smcp" format="2">
+  <advance width="1548.075"/>
+  <anchor x="770" y="10" name="bottom"/>
+  <anchor x="1548" y="-407" name="bottom_dd"/>
+  <anchor x="1481" y="0" name="right"/>
+  <anchor x="770" y="1320" name="top"/>
+  <anchor x="1548" y="1320" name="top0315"/>
+  <anchor x="1548" y="1600" name="top_dd"/>
+  <outline>
+    <contour>
+      <point x="551" y="1165" type="line"/>
+      <point x="266" y="1165" type="line"/>
+      <point x="656" y="0" type="line"/>
+      <point x="888" y="0" type="line"/>
+      <point x="1278" y="1165" type="line"/>
+      <point x="994" y="1165" type="line"/>
+      <point x="772" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="1165" type="line"/>
+      <point x="74" y="1165" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="121" type="line"/>
+    </contour>
+    <contour>
+      <point x="1473" y="1165" type="line"/>
+      <point x="1168" y="1165" type="line"/>
+      <point x="1110" y="121" type="line"/>
+      <point x="1110" y="0" type="line"/>
+      <point x="1473" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
