@@ -15,40 +15,58 @@
     <key>guidelines</key>
     <array>
       <dict>
+        <key>identifier</key>
+        <string>LJHbvq0XhM</string>
         <key>y</key>
         <integer>2418</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>U4lp8gIthe</string>
         <key>y</key>
         <integer>2418</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>Df0D9txWMi</string>
         <key>y</key>
         <integer>2128</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>DAnM84SLQJ</string>
         <key>y</key>
         <integer>1991</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>6QdgwJwtqP</string>
         <key>y</key>
         <integer>2208</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>lghtCl0fsq</string>
         <key>y</key>
         <integer>1592</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>Hyl8LJXRtJ</string>
         <key>y</key>
         <integer>2224</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>FzmMKLS2BP</string>
         <key>y</key>
         <integer>-416</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>57SqU5MJ7Q</string>
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
@@ -57,6 +75,8 @@
         <integer>603</integer>
       </dict>
       <dict>
+        <key>identifier</key>
+        <string>0Lku6Y6mB5</string>
         <key>y</key>
         <integer>2184</integer>
       </dict>
