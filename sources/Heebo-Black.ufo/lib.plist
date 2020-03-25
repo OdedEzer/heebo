@@ -2659,6 +2659,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>fqKPedvabhR6D9OLoSKILmkdcfez41WsDy0lzwnL_Mc</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>public.glyphOrder</key>
@@ -3054,16 +3056,6 @@
       <string>seven.sup</string>
       <string>eight.sup</string>
       <string>nine.sup</string>
-      <string>zero.tnum</string>
-      <string>one.tnum</string>
-      <string>two.tnum</string>
-      <string>three.tnum</string>
-      <string>four.tnum</string>
-      <string>five.tnum</string>
-      <string>six.tnum</string>
-      <string>seven.tnum</string>
-      <string>eight.tnum</string>
-      <string>nine.tnum</string>
       <string>zerosub</string>
       <string>oneinferior</string>
       <string>twosub</string>
@@ -3130,6 +3122,16 @@
       <string>st</string>
       <string>crossbar</string>
       <string>divisionslash</string>
+      <string>zero.tnum</string>
+      <string>one.tnum</string>
+      <string>two.tnum</string>
+      <string>three.tnum</string>
+      <string>four.tnum</string>
+      <string>five.tnum</string>
+      <string>six.tnum</string>
+      <string>seven.tnum</string>
+      <string>eight.tnum</string>
+      <string>nine.tnum</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

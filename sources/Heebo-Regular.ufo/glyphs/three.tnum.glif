@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.tnum" format="2">
-  <advance width="1112.17"/>
+  <advance width="1151"/>
   <outline>
-    <component base="three.onum" xOffset="44"/>
+    <component base="three"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-      </array>
+      <key>public.markColor</key>
+      <string>1,0,0,0.5</string>
     </dict>
   </lib>
 </glyph>

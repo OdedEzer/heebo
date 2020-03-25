@@ -2,6 +2,12 @@
 <glyph name="eight.tnum" format="2">
   <advance width="1121"/>
   <outline>
-    <component base="eight" xOffset="-4"/>
+    <component base="eight"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,0.5</string>
+    </dict>
+  </lib>
 </glyph>
