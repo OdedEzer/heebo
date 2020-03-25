@@ -14,7 +14,7 @@ fontmake -m Heebo.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
-fontmake -m Heebo.designspace -o variable --output-path ../fonts/vf/Heebo[wght].ttf
+fontmake -m Heebo.designspace -o variable --output-path ../fonts/variable/Heebo[wght].ttf
 
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
@@ -29,7 +29,7 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/vf/*\[wght\].ttf)
+vfs=$(ls ../fonts/variable/*\[wght\].ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
@@ -50,7 +50,7 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
