@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="yodyodpatahhebrew" format="2">
-  <advance width="1252"/>
-  <unicode hex="FB1F"/>
-  <outline>
-    <component base="yodyodhebrew"/>
-    <component base="patahhebrew" xOffset="-229"/>
-  </outline>
-</glyph>

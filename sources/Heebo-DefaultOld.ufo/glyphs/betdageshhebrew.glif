@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="betdageshhebrew" format="2">
-  <advance width="1084"/>
-  <unicode hex="FB31"/>
-  <outline>
-    <component base="bethebrew"/>
-    <component base="dageshhebrew" xOffset="60" yOffset="4"/>
-  </outline>
-</glyph>
