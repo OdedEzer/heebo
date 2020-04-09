@@ -26,11 +26,6 @@
         <dimension name="Weight" xvalue="373"/>
       </location>
     </source>
-    <source filename="Heebo-DefaultOld.ufo" name="Heebo Default_Old" familyname="Heebo" stylename="Default_Old">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-      </location>
-    </source>
     <source filename="Heebo-Black.ufo" name="Heebo Black" familyname="Heebo" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="790"/>

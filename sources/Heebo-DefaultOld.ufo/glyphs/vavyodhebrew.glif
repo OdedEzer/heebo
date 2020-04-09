@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="vavyodhebrew" format="2">
-  <advance width="1238"/>
-  <unicode hex="05F1"/>
-  <outline>
-    <component base="yodhebrew" xOffset="612"/>
-    <component base="vavhebrew"/>
-  </outline>
-</glyph>

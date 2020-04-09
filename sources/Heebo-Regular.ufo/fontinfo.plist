@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1456</integer>
     <key>copyright</key>
-    <string>Copyright 2014 The Heebo Project Authors.</string>
+    <string>Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)</string>
     <key>descender</key>
     <integer>-555</integer>
     <key>familyName</key>
@@ -68,7 +68,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>HebrewTypography.com</string>
     <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
@@ -124,9 +124,9 @@
     <key>unitsPerEm</key>
     <integer>2048</integer>
     <key>versionMajor</key>
-    <integer>2</integer>
+    <integer>3</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>1178</integer>
   </dict>

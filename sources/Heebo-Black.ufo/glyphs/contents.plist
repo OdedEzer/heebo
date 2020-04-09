@@ -406,8 +406,6 @@
     <string>eight.smcp.glif</string>
     <key>eight.sup</key>
     <string>eight.sup.glif</string>
-    <key>eight.tnum</key>
-    <string>eight.tnum.glif</string>
     <key>eightsub</key>
     <string>eightsub.glif</string>
     <key>eightsuperior</key>
@@ -462,8 +460,6 @@
     <string>five.smcp.glif</string>
     <key>five.sup</key>
     <string>five.sup.glif</string>
-    <key>five.tnum</key>
-    <string>five.tnum.glif</string>
     <key>fivesub</key>
     <string>fivesub.glif</string>
     <key>fivesuperior</key>
@@ -476,8 +472,6 @@
     <string>four.smcp.glif</string>
     <key>four.sup</key>
     <string>four.sup.glif</string>
-    <key>four.tnum</key>
-    <string>four.tnum.glif</string>
     <key>foursub</key>
     <string>foursub.glif</string>
     <key>fraction</key>
@@ -602,8 +596,6 @@
     <string>nine.smcp.glif</string>
     <key>nine.sup</key>
     <string>nine.sup.glif</string>
-    <key>nine.tnum</key>
-    <string>nine.tnum.glif</string>
     <key>nineinferior</key>
     <string>nineinferior.glif</string>
     <key>ninesuperior</key>
@@ -636,8 +628,6 @@
     <string>one.smcp.glif</string>
     <key>one.sup</key>
     <string>one.sup.glif</string>
-    <key>one.tnum</key>
-    <string>one.tnum.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
     <key>oneinferior</key>
@@ -754,8 +744,6 @@
     <string>seven.smcp.glif</string>
     <key>seven.sup</key>
     <string>seven.sup.glif</string>
-    <key>seven.tnum</key>
-    <string>seven.tnum.glif</string>
     <key>sevensub</key>
     <string>sevensub.glif</string>
     <key>sevensuperior</key>
@@ -788,8 +776,6 @@
     <string>six.smcp.glif</string>
     <key>six.sup</key>
     <string>six.sup.glif</string>
-    <key>six.tnum</key>
-    <string>six.tnum.glif</string>
     <key>sixinferior</key>
     <string>sixinferior.glif</string>
     <key>sixsuperior</key>
@@ -822,8 +808,6 @@
     <string>three.smcp.glif</string>
     <key>three.sup</key>
     <string>three.sup.glif</string>
-    <key>three.tnum</key>
-    <string>three.tnum.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
     <key>threesub</key>
@@ -846,8 +830,6 @@
     <string>two.smcp.glif</string>
     <key>two.sup</key>
     <string>two.sup.glif</string>
-    <key>two.tnum</key>
-    <string>two.tnum.glif</string>
     <key>twosub</key>
     <string>twosub.glif</string>
     <key>twosuperior</key>
@@ -930,8 +912,6 @@
     <string>zero.smcp.glif</string>
     <key>zero.sup</key>
     <string>zero.sup.glif</string>
-    <key>zero.tnum</key>
-    <string>zero.tnum.glif</string>
     <key>zerosub</key>
     <string>zerosub.glif</string>
     <key>zerosuperior</key>
