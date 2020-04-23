@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qamatsqatanhebrew" format="2">
+  <unicode hex="05C7"/>
+  <anchor x="651" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="651" y="-652" type="curve" smooth="yes"/>
+      <point x="717" y="-652"/>
+      <point x="763" y="-610"/>
+      <point x="763" y="-553" type="curve" smooth="yes"/>
+      <point x="763" y="-504"/>
+      <point x="728" y="-484"/>
+      <point x="707" y="-420" type="curve" smooth="yes"/>
+      <point x="700" y="-399"/>
+      <point x="695" y="-351"/>
+      <point x="695" y="-328" type="curve"/>
+      <point x="875" y="-328" type="line"/>
+      <point x="875" y="-176" type="line"/>
+      <point x="428" y="-176" type="line"/>
+      <point x="428" y="-328" type="line"/>
+      <point x="606" y="-328" type="line"/>
+      <point x="606" y="-357"/>
+      <point x="602" y="-401"/>
+      <point x="596" y="-420" type="curve" smooth="yes"/>
+      <point x="576" y="-484"/>
+      <point x="539" y="-503"/>
+      <point x="539" y="-553" type="curve" smooth="yes"/>
+      <point x="539" y="-611"/>
+      <point x="587" y="-652"/>
+    </contour>
+  </outline>
+</glyph>
