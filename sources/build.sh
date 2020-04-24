@@ -25,8 +25,8 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	python3 -m ttfautohint -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -W -c $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
+	# python3 -m ttfautohint -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -W -c $ttf "$ttf.fix";
+	# mv "$ttf.fix" $ttf;
 done
 
 vfs=$(ls ../fonts/variable/*\[wght\].ttf)
@@ -35,8 +35,8 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	./ttfautohint-vf -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -W -c --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	# ./ttfautohint-vf -l 8 -r 50 -G 200 -x 14 -D hebr -f latn -W -c --stem-width-mode nnn $vf "$vf.fix";
+	# mv "$vf.fix" $vf;
 done
 
 
@@ -59,11 +59,11 @@ done
 echo "Fixing Hinting"
 for vf in $vfs
 do
-	gftools fix-hinting $vf;
-	mv "$vf.fix" $vf;
+	gftools fix-nonhinting $vf $vf;
+	# mv "$vf.fix" $vf;
 done
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
+	gftools fix-nonhinting $ttf $ttf;
+	# mv "$ttf.fix" $ttf;
 done
