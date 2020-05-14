@@ -4,8 +4,6 @@
   <unicode hex="002C"/>
   <guideline y="901"/>
   <guideline y="555"/>
-  <anchor x="209" y="214" name="_bottom"/>
-  <anchor x="182" y="25" name="_right"/>
   <outline>
     <contour>
       <point x="235" y="27" type="curve"/>

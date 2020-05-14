@@ -2,8 +2,6 @@
 <glyph name="ring" format="2">
   <advance width="680.825"/>
   <unicode hex="02DA"/>
-  <anchor x="345" y="1138" name="_top"/>
-  <anchor x="345" y="1548" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="119" y="1380"/>

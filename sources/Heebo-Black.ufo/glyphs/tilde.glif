@@ -2,8 +2,6 @@
 <glyph name="tilde" format="2">
   <advance width="1000.35"/>
   <unicode hex="02DC"/>
-  <anchor x="507" y="1297" name="_top"/>
-  <anchor x="508" y="1699" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="898" y="1541" type="curve"/>
