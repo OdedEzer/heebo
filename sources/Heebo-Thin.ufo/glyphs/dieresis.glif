@@ -2,8 +2,6 @@
 <glyph name="dieresis" format="2">
   <advance width="906"/>
   <unicode hex="00A8"/>
-  <anchor x="450" y="1293" name="_top"/>
-  <anchor x="451" y="1540" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="174" y="1452"/>

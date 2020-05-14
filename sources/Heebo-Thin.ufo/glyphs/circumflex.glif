@@ -2,8 +2,6 @@
 <glyph name="circumflex" format="2">
   <advance width="796"/>
   <unicode hex="02C6"/>
-  <anchor x="402" y="1293" name="_top"/>
-  <anchor x="402" y="1606" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="656" y="1274" type="line"/>
