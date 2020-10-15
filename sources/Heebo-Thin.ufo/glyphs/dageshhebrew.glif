@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dageshhebrew" format="2">
+  <unicode hex="05BC"/>
+  <anchor x="299" y="594" name="_center"/>
+  <outline>
+    <contour>
+      <point x="299" y="539" type="curve" smooth="yes"/>
+      <point x="330" y="539"/>
+      <point x="355" y="563"/>
+      <point x="355" y="594" type="curve" smooth="yes"/>
+      <point x="355" y="625"/>
+      <point x="330" y="650"/>
+      <point x="299" y="650" type="curve" smooth="yes"/>
+      <point x="268" y="650"/>
+      <point x="244" y="625"/>
+      <point x="244" y="594" type="curve" smooth="yes"/>
+      <point x="244" y="569"/>
+      <point x="268" y="539"/>
+    </contour>
+  </outline>
+</glyph>

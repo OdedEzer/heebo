@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="widekafhebrew" format="2">
+  <outline>
+    <contour>
+      <point x="713" y="-29" type="curve" smooth="yes"/>
+      <point x="1155" y="-29"/>
+      <point x="1383" y="121"/>
+      <point x="1383" y="417" type="curve"/>
+      <point x="1383" y="1099" type="line" smooth="yes"/>
+      <point x="1383" y="1124"/>
+      <point x="1380" y="1139"/>
+      <point x="1373" y="1157" type="curve"/>
+      <point x="127" y="1157" type="line"/>
+      <point x="127" y="1102" type="line"/>
+      <point x="1324" y="1102" type="line"/>
+      <point x="1324" y="417" type="line"/>
+      <point x="1324" y="158"/>
+      <point x="1116" y="27"/>
+      <point x="711" y="27" type="curve" smooth="yes"/>
+      <point x="545" y="27"/>
+      <point x="347" y="49"/>
+      <point x="117" y="93" type="curve"/>
+      <point x="106" y="38" type="line"/>
+      <point x="340" y="-7"/>
+      <point x="542" y="-29"/>
+    </contour>
+  </outline>
+</glyph>

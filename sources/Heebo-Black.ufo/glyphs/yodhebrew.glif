@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yodhebrew" format="2">
+  <advance width="747.45"/>
+  <unicode hex="05D9"/>
+  <anchor x="411" y="0" name="bottom"/>
+  <anchor x="36" y="741" name="center"/>
+  <anchor x="347" y="1210" name="top"/>
+  <anchor x="0" y="1210" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="223" y="512" type="line"/>
+      <point x="601" y="512" type="line"/>
+      <point x="601" y="1210" type="line"/>
+      <point x="49" y="1210" type="line"/>
+      <point x="49" y="918" type="line"/>
+      <point x="223" y="918" type="line"/>
+    </contour>
+  </outline>
+</glyph>

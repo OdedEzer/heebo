@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalnunhebrew" format="2">
+  <advance width="518"/>
+  <unicode hex="05DF"/>
+  <anchor x="-55" y="603" name="bottom"/>
+  <anchor x="89" y="603" name="center"/>
+  <anchor x="222" y="1157" name="top"/>
+  <anchor x="3" y="1157" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="269" y="-416" type="line"/>
+      <point x="328" y="-416" type="line"/>
+      <point x="328" y="1157" type="line"/>
+      <point x="100" y="1157" type="line"/>
+      <point x="100" y="1102" type="line"/>
+      <point x="269" y="1102" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reshhebrew.004" format="2">
+  <outline>
+    <contour>
+      <point x="61" y="1115" type="curve"/>
+      <point x="75" y="1063" type="line"/>
+      <point x="183" y="1093"/>
+      <point x="279" y="1107"/>
+      <point x="362" y="1107" type="curve" smooth="yes"/>
+      <point x="603" y="1107"/>
+      <point x="736" y="983"/>
+      <point x="736" y="737" type="curve" smooth="yes"/>
+      <point x="735" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="795" y="713" type="line" smooth="yes"/>
+      <point x="795" y="1014"/>
+      <point x="646" y="1166"/>
+      <point x="374" y="1166" type="curve" smooth="yes"/>
+      <point x="283" y="1166"/>
+      <point x="178" y="1149"/>
+    </contour>
+  </outline>
+</glyph>

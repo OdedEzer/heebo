@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalpedageshhebrew" format="2">
+  <advance width="1105"/>
+  <unicode hex="FB43"/>
+  <outline>
+    <component base="finalpehebrew"/>
+    <component base="dageshhebrew" xOffset="265" yOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>finalpehebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>finalpehebrew</string>
+    </dict>
+  </lib>
+</glyph>

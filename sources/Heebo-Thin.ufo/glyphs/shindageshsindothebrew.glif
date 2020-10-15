@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shindageshsindothebrew" format="2">
+  <advance width="1464"/>
+  <unicode hex="FB2D"/>
+  <outline>
+    <component base="shinhebrew"/>
+    <component base="dageshhebrew" xOffset="687" yOffset="9"/>
+    <component base="sindothebrew" xOffset="16"/>
+  </outline>
+</glyph>

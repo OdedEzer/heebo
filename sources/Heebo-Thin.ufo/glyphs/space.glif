@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="space" format="2">
+  <advance width="490"/>
+  <unicode hex="0020"/>
+  <unicode hex="00A0"/>
+  <guideline y="901"/>
+  <guideline y="555"/>
+  <outline>
+  </outline>
+</glyph>

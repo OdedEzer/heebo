@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii61664" format="2">
+  <unicode hex="200C"/>
+  <outline>
+    <contour>
+      <point x="-705" y="1153" type="line"/>
+      <point x="-705" y="-200" type="line"/>
+      <point x="-446" y="-200" type="line"/>
+      <point x="-446" y="1153" type="line"/>
+    </contour>
+  </outline>
+</glyph>

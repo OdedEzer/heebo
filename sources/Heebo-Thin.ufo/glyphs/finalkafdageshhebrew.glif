@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="finalkafdageshhebrew" format="2">
+  <advance width="944"/>
+  <unicode hex="FB3A"/>
+  <outline>
+    <component base="finalkafhebrew"/>
+    <component base="dageshhebrew" xOffset="50" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kafhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kafhebrew</string>
+    </dict>
+  </lib>
+</glyph>

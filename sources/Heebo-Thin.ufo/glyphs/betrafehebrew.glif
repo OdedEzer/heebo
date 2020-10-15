@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="betrafehebrew" format="2">
+  <advance width="1025"/>
+  <unicode hex="FB4C"/>
+  <outline>
+    <component base="bethebrew"/>
+    <component base="rafehebrew" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bethebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>bethebrew</string>
+    </dict>
+  </lib>
+</glyph>

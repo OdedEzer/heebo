@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reshdageshhebrew" format="2">
+  <advance width="974"/>
+  <unicode hex="FB48"/>
+  <outline>
+    <component base="reshhebrew"/>
+    <component base="dageshhebrew" xOffset="73" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reshhebrew</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>reshhebrew</string>
+    </dict>
+  </lib>
+</glyph>

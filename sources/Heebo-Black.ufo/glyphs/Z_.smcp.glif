@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.smcp" format="2">
+  <advance width="1082.575"/>
+  <anchor x="556" y="10" name="bottom"/>
+  <anchor x="1083" y="-407" name="bottom_dd"/>
+  <anchor x="556" y="1320" name="top"/>
+  <anchor x="1083" y="1320" name="top0315"/>
+  <anchor x="1083" y="1600" name="top_dd"/>
+  <outline>
+    <contour>
+      <point x="1053" y="0" type="line"/>
+      <point x="1053" y="289" type="line"/>
+      <point x="124" y="289" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="0" type="line"/>
+      <point x="1055" y="995" type="line"/>
+      <point x="1055" y="1165" type="line"/>
+      <point x="800" y="1165" type="line"/>
+      <point x="50" y="174" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="945" y="875" type="line"/>
+      <point x="945" y="1165" type="line"/>
+      <point x="39" y="1165" type="line"/>
+      <point x="39" y="875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

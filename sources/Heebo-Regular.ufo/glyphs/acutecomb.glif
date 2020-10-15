@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="-566" y="1290" name="_marktop"/>
+  <anchor x="-566" y="1290" name="_top"/>
+  <anchor x="-566" y="1640" name="mkmktop"/>
+  <anchor x="-449" y="1389" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-465" y="1536" type="line"/>
+      <point x="-659" y="1243" type="line"/>
+      <point x="-509" y="1243" type="line"/>
+      <point x="-240" y="1536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
