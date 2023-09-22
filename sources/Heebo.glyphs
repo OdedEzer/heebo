@@ -1,24 +1,6 @@
 {
 .appVersion = "3219";
 .formatVersion = 3;
-DisplayStrings = (
-"̈ÄËÏÖÜWẄŸaäëïöüẅÿ¨
-i̇ĊĖĠİŻcċeėġi/idotaccent įȷjż˙ nnjnn oojoo
-́̀ÀÈÌÒÙẀỲàèìòùẁỳ/Agrave.smcp/Egrave.smcp/Igrave.smcp/Ograve.smcp/Ugrave.smcp `
-́ÁĆEÉÍLĹŃÓŔŚÚẂÝŹáćéílĺńóŕśúẃýź/Aacute.smcp/Eacute.smcp/Iacute.smcp/Oacute.smcp/Uacute.smcp/Yacute.smcp ´
-̋ŐŰőű˝
-/caroncomb.alt LĽdďlablľlľaltťl
-̂ÂÊÎÔÛŴŶâêîôûŵŷˆ
-̌ČĎĚŇŘŠŤŽčěňřšžˇ
-̂̌̆ĂĞŬăğŭ˘
-̊ÅŮåů˚
-̃ÃÑÕãñõ/Atilde.smcp/Ntilde.smcp/Otilde.smcp ˜
-̄ĀĒĪŌŪāēīōū¯
-̒ģ
-̦GĢĶLĻŅŖȘ̦Țķļņrŗștťț/longs_t ț
-̧ÇŞçş¸
-̨ĄĘĮŲąęįų˛"
-);
 axes = (
 {
 name = Weight;
@@ -104911,7 +104893,7 @@ unicode = 1520;
 },
 {
 glyphname = "vavyod-hb";
-lastChange = "2023-09-21 14:55:12 +0000";
+lastChange = "2023-09-22 12:21:24 +0000";
 layers = (
 {
 background = {
@@ -104961,11 +104943,11 @@ nodes = (
 layerId = "445B0B85-2678-4800-8A4D-B1A9856CF63B";
 shapes = (
 {
-pos = (518,0);
-ref = "yod-hb";
+pos = (542,0);
+ref = "vav-hb";
 },
 {
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 width = 1060;
@@ -105018,11 +105000,11 @@ nodes = (
 layerId = "20EE6398-45C7-446F-8F4E-C33CF1AD7937";
 shapes = (
 {
-pos = (686,0);
-ref = "yod-hb";
+pos = (747,0);
+ref = "vav-hb";
 },
 {
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 userData = {
@@ -105081,11 +105063,11 @@ nodes = (
 layerId = "275CACE8-FD52-4067-B7BC-43A450B7EDC9";
 shapes = (
 {
-pos = (604,0);
-ref = "yod-hb";
+pos = (618,0);
+ref = "vav-hb";
 },
 {
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 userData = {
