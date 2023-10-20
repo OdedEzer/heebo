@@ -1,9 +1,6 @@
 {
 .appVersion = "3221";
 .formatVersion = 3;
-DisplayStrings = (
-"װֶעלְכֶע | װֶעלְן | זײַן | רײַך"
-);
 axes = (
 {
 name = Weight;
@@ -88800,7 +88797,7 @@ unicode = 1488;
 {
 color = 10;
 glyphname = "alefpatah-hb";
-lastChange = "2023-10-20 13:53:10 +0000";
+lastChange = "2023-10-20 13:57:10 +0000";
 layers = (
 {
 background = {
@@ -88873,7 +88870,7 @@ shapes = (
 ref = "alef-hb";
 },
 {
-pos = (1124,0);
+pos = (1134,0);
 ref = "patah-hb";
 }
 );
@@ -144416,30 +144413,30 @@ unicode = 1462;
 {
 color = 6;
 glyphname = "patah-hb";
-lastChange = "2023-10-20 13:53:06 +0000";
+lastChange = "2023-10-20 13:57:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (-484,0);
+pos = (-494,0);
 }
 );
 background = {
 anchors = (
 {
 name = _bottom;
-pos = (-484,0);
+pos = (-494,0);
 }
 );
 shapes = (
 {
 closed = 1;
 nodes = (
-(-319,-263,l),
-(-319,-207,l),
-(-650,-207,l),
-(-650,-263,l)
+(-329,-263,l),
+(-329,-207,l),
+(-660,-207,l),
+(-660,-263,l)
 );
 }
 );
@@ -144449,14 +144446,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-319,-263,l),
-(-319,-207,l),
-(-650,-207,l),
-(-650,-263,l)
+(-329,-263,l),
+(-329,-207,l),
+(-660,-207,l),
+(-660,-263,l)
 );
 }
 );
-width = 78;
+width = 68;
 },
 {
 anchors = (
